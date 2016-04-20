@@ -1,0 +1,85 @@
+Report for Institution Code BYU, Resource byu_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 653
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 8
+	Date: 2016-03-14 ; Times: 4
+	Date: 2016-03-11 ; Times: 7
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-13 ; Times: 3
+	Date: 2016-03-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "coleonyx switaki" ; Times: 3
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Liolaemus" ; Times: 1
+	Query: "baleu" ; Times: 1
+	Query: "genus:Smilisca class:Amphibia country:&#34;Mexico&#34; year &gt;= 1977 year &lt;= 1978" ; Times: 1
+	Query: "gbifdatasetid:847aa410-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "Homopus" ; Times: 1
+	Query: "&#34;Bufo microscaphus&#34; Arizona" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "liolaemus" ; Times: 2
+	Query: "reptilia texas" ; Times: 1
+	Query: "Dendrobates stateprovince:&#34;Hawaii&#34;" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis catalognumber:12719" ; Times: 1
+	Query: "institutioncode:BYU" ; Times: 2
+	Query: "Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "volcan baru" ; Times: 2
+	Query: "Sceloporus megalepidurus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Stilosoma extenuatum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Coluber constrictor mormon" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "class:amphibia county:&#34;shelby&#34; stateprovince:&#34;alabama&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "Notophthalmus viridescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 230 download events in this period)
+Total number of records downloaded: 1522
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 8
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "&#34;Sauromalus ater&#34; Arizona" ; Times: 1
+	Query: "volcan baru" ; Times: 1
+	Query: "tissue" ; Times: 27
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "plestiodon skiltonianus" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+
+
+End of report.
