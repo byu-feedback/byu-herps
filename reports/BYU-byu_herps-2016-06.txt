@@ -1,0 +1,502 @@
+Report for Institution Code BYU, Resource byu_herps
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 457
+Number of records retrieved in searches: 5768
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 373
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 38
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Japan ; Times: 4
+	Country: Argentina ; Times: 15
+	Country: Fiji ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 4
+	Date: 2016-06-24 ; Times: 9
+	Date: 2016-06-23 ; Times: 32
+	Date: 2016-06-22 ; Times: 46
+	Date: 2016-06-21 ; Times: 18
+	Date: 2016-06-20 ; Times: 17
+	Date: 2016-06-05 ; Times: 11
+	Date: 2016-06-04 ; Times: 5
+	Date: 2016-06-07 ; Times: 19
+	Date: 2016-06-06 ; Times: 38
+	Date: 2016-06-01 ; Times: 25
+	Date: 2016-06-03 ; Times: 74
+	Date: 2016-06-02 ; Times: 30
+	Date: 2016-06-09 ; Times: 16
+	Date: 2016-06-08 ; Times: 2
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-19 ; Times: 9
+	Date: 2016-06-16 ; Times: 24
+	Date: 2016-06-17 ; Times: 21
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-15 ; Times: 11
+	Date: 2016-06-12 ; Times: 8
+	Date: 2016-06-13 ; Times: 21
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "14852" ; Times: 1
+	Query: "plestiodon fasciatus" ; Times: 3
+	Query: "Diadophis punctatus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 2
+	Query: "46539" ; Times: 1
+	Query: "Agkistrodon pictigaster" ; Times: 1
+	Query: "dendroaspis jamesoni" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "mitchelli county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "wigginsi county:&#34;San Bernardino&#34;" ; Times: 2
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1925 year &lt;= 1935" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 4
+	Query: "Telescopus class:Reptilia" ; Times: 2
+	Query: "34808" ; Times: 1
+	Query: "plestiodon copei" ; Times: 1
+	Query: "crotalus angelensis" ; Times: 1
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "Chelus fimbriatus" ; Times: 1
+	Query: "Reptilia 14694" ; Times: 1
+	Query: "specificepithet:septentrionalis family:Scincidae class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "order:Caudata class:Amphibia" ; Times: 2
+	Query: "Phyllorhynchus Nevada" ; Times: 13
+	Query: "wyoming" ; Times: 1
+	Query: "Liolaemus poecilochromus" ; Times: 1
+	Query: "Reptilia 21632" ; Times: 1
+	Query: "Reptilia 15902" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Reptilia 4058" ; Times: 4
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "genus:Gerrhonotus country:&#34;Mexico&#34;" ; Times: 7
+	Query: "agkistrodon" ; Times: 1
+	Query: "Eumeces skiltonianus Nevada" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "Reptilia 36285" ; Times: 1
+	Query: "Reptilia 36284" ; Times: 1
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 6
+	Query: "Micrurus proximans" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Reptilia 62173" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "18771" ; Times: 1
+	Query: "Gopherus 8794" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Lampropeltis alterna 1" ; Times: 3
+	Query: "Chionactis talpina" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "crotalus pyrrhus" ; Times: 1
+	Query: "Leptotyphlops humilis" ; Times: 1
+	Query: "Cnemaspis" ; Times: 1
+	Query: "Cameroon specificepithet:Jamesoni genus:Dendroaspis" ; Times: 2
+	Query: "Chionactis occipitalis stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "terrapene nelsoni" ; Times: 2
+	Query: "sonora semiannulata" ; Times: 1
+	Query: "13164 reptilia" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "Diadophis punctatus regalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Reptilia 13523" ; Times: 1
+	Query: "Coluber stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Reptilia 37842" ; Times: 1
+	Query: "Reptilia 51340" ; Times: 1
+	Query: "Reptilia 62146" ; Times: 1
+	Query: "Sceloporus smithi Mexico" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Salomonelaps" ; Times: 1
+	Query: "Tropiduridae 1" ; Times: 14
+	Query: "tropidodipsas annulifera" ; Times: 1
+	Query: "crotalus culminatus" ; Times: 2
+	Query: "Reptilia 1794" ; Times: 4
+	Query: "Reptilia 20454" ; Times: 1
+	Query: "Reptilia 22338" ; Times: 1
+	Query: "Reptilia 32653" ; Times: 1
+	Query: "Notophthalmus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Reptilia 51439" ; Times: 1
+	Query: "Plestiodon gilberti Nevada" ; Times: 1
+	Query: "Holbrookia maculata stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "Cnemaspis asia" ; Times: 5
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1975" ; Times: 1
+	Query: "Reptilia 62145" ; Times: 1
+	Query: "crotalus nuntius arizona" ; Times: 1
+	Query: "class:Reptilia county:&#34;Douglas&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:lampropeltis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 1
+	Query: "hammondii county:&#34;Mono&#34;" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 2
+	Query: "plethodon longicrus" ; Times: 1
+	Query: "Masticophis lateralis stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "(florida)" ; Times: 1
+	Query: "Reptilia 20166" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "Xantusia wigginsi" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "lampropholis delicata brisbane" ; Times: 1
+	Query: "Xantusia" ; Times: 1
+	Query: "Reptilia 1003" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 3
+	Query: "panama" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "573649" ; Times: 2
+	Query: "Reptilia 51442" ; Times: 1
+	Query: "urosaurus ornatus wrighti" ; Times: 8
+	Query: "Reptilia 51440" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "reptilia county:&#34;douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "crotalus stephensi" ; Times: 2
+	Query: "Xantusia wigginsi stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Reptilia 18384" ; Times: 1
+	Query: "crotalus aquilus" ; Times: 3
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Rhinocheilus lecontei Nevada" ; Times: 2
+	Query: "Terrapene nelsoni" ; Times: 2
+	Query: "Reptilia catalognumber:8894" ; Times: 1
+	Query: "Phyllodactylus homolepidurus" ; Times: 2
+	Query: "Sistrurus Texas" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 2000" ; Times: 1
+	Query: "Crotalus mitchelli" ; Times: 3
+	Query: "chihuahua" ; Times: 1
+	Query: "Reptilia 40022" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "Reptilia 40021" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Phyllopezus" ; Times: 4
+	Query: "Reptilia 40028" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "Crotalus lepidus klauberi stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Arizona pacata" ; Times: 10
+	Query: "Sonora semiannulata Nevada" ; Times: 4
+	Query: "genus:Notophthalmus specificepithet:viridescens" ; Times: 2
+	Query: "cylindrophis" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "dicamptodon copei" ; Times: 1
+	Query: "Psammophis angolensis" ; Times: 4
+	Query: "micrurus laticollaris" ; Times: 1
+	Query: "genus:Agkistrodon" ; Times: 1
+	Query: "Reptilia 4000" ; Times: 1
+	Query: "specificepithet:Jamesoni genus:Dendroaspis" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;New Mexico&#34; year &gt;= 1956 year &lt;= 1965" ; Times: 2
+	Query: "Reptilia 40023" ; Times: 1
+	Query: "Reptilia 30018" ; Times: 1
+	Query: "Reptilia 573649" ; Times: 3
+	Query: "Reptilia 48013" ; Times: 1
+	Query: "Phrynosoma platyrhinos Nevada" ; Times: 1
+	Query: "CROTALUS WILLARDI" ; Times: 1
+	Query: "Reptilia 20872" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "(Nevada)" ; Times: 1
+	Query: "Coluber New York" ; Times: 2
+	Query: "Reptilia 30016" ; Times: 1
+	Query: "Reptilia 30017" ; Times: 1
+	Query: "Reptilia 40035" ; Times: 1
+	Query: "Reptilia 40030" ; Times: 1
+	Query: "reptilia county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "7017" ; Times: 1
+	Query: "Agkistrodon contortrix contortrix" ; Times: 1
+	Query: "sistrurus new mexico" ; Times: 1
+	Query: "amphibia county:&#34;Mono&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "ctenosaura palearis" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "anolis lemurinus panama" ; Times: 1
+	Query: "crotalus atrox year &gt;= 2010 year &lt;= 2016" ; Times: 1
+	Query: "plestiodon fasciatus texas" ; Times: 1
+	Query: "Reptilia 18258" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Crotalus mitchelli pyrrhus" ; Times: 1
+	Query: "Reptilia 42699" ; Times: 1
+	Query: "Reptilia 41320" ; Times: 1
+	Query: "dicamptodon distance(location,geopoint(46.75993497044862,-123.3544921875))&lt;100000" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "Reptilia 49426" ; Times: 1
+	Query: "Crotalus AND Catalina Island" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "genus:Nerodia mappable:1" ; Times: 1
+	Query: "urosaurus ornatus Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "Ranidae draytoni" ; Times: 1
+	Query: "liolaemus alticolor" ; Times: 1
+	Query: "CROTALUS LEPIDUS" ; Times: 1
+	Query: "Xantusia wigginsi stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Reptilia 18280" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Sistrurus edwardsi" ; Times: 2
+	Query: "Eric Rickhart" ; Times: 4
+	Query: "39534" ; Times: 1
+	Query: "Reptilia 49492" ; Times: 1
+	Query: "crotalus atrox" ; Times: 3
+	Query: "uta stansburiana Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 2
+	Query: "Varanus indicus " ; Times: 1
+	Query: "Lampropeltis pyromelana stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:horridum genus:heloderma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Micrurus albicinctus" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "genus:Urosaurus locality:La Paz" ; Times: 1
+	Query: "Reptilia 20167" ; Times: 1
+	Query: "Spea bombifrons country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "Reptilia 23998" ; Times: 1
+	Query: "Masticophis taeniatus Nevada" ; Times: 2
+	Query: "leptotyphlops humilis" ; Times: 1
+	Query: "india" ; Times: 1
+	Query: "crotaphytus dickersonae" ; Times: 2
+	Query: "Necturus stateprovince:&#34;Wisconsin&#34; year &gt;= 1960 year &lt;= 2016" ; Times: 2
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "Crotalus lepidus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Reptilia 40013" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Plectrohyla guatemalensis" ; Times: 1
+	Query: "Crotalus" ; Times: 1
+	Query: "crotalus pricei" ; Times: 2
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Gymnophthalmus speciosus" ; Times: 3
+	Query: "Chionactis occipitalis" ; Times: 5
+	Query: "Chrysemys picta" ; Times: 7
+	Query: "class:Reptilia locality:Luna county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Reptilia 62171" ; Times: 1
+	Query: "Reptilia 47463" ; Times: 2
+	Query: "Reptilia 14056" ; Times: 2
+	Query: "Reptilia catalognumber:16754" ; Times: 1
+	Query: "Crotalus viridis nuntius" ; Times: 2
+	Query: "specificepithet:lacerata genus:Holbrookia class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Urosaurus ornatus wrighti" ; Times: 4
+	Query: "Crotalus aquilus" ; Times: 2
+	Query: "Homopus" ; Times: 1
+	Query: "Utah" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "Phrynosoma cornutum" ; Times: 6
+	Query: "coleonyx nevada" ; Times: 2
+	Query: "Reptilia 8516" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Python molurus " ; Times: 2
+	Query: "bufo" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:pyromelana class:Reptilia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "lampropeltis abnorma" ; Times: 2
+	Query: "50388" ; Times: 1
+	Query: "class:Amphibia county:&#34;Shelby&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "Thamnophis eques stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "crotalus county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "BYU" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "crotalus lannomi" ; Times: 3
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Reptilia 33988" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "&#34;Agkistrodon contortrix contortrix&#34;" ; Times: 1
+	Query: "amphibia county:&#34;Mono&#34;" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "reptilia county:&#34;lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "45816" ; Times: 1
+	Query: "liolaemus walkeri" ; Times: 6
+	Query: "Pseudoeurycea belli" ; Times: 5
+	Query: "Reptilia 49494" ; Times: 1
+	Query: "Reptilia 41319" ; Times: 1
+	Query: "Lampropeltis triangulum hondurensis" ; Times: 1
+	Query: "Necturus stateprovince:&#34;Ohio&#34; year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "Trachylepis institutioncode:BYU" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "deinagkistrodon acutus type:specimen" ; Times: 1
+	Query: "abronia deppii" ; Times: 1
+	Query: "humilis arizona" ; Times: 3
+	Query: "aspidoscelis" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Hydrophis coggeri" ; Times: 1
+	Query: "specificepithet:Jamesoni genus:Dendroaspis country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34;" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "Reptilia 12883" ; Times: 1
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 1
+	Query: "Reptilia 37377" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 148 (out of 1052 download events in this period)
+Total number of records downloaded: 8317
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 53
+	Country: United States ; Times: 73
+	Country: Colombia ; Times: 14
+	Country: Japan ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-01 ; Times: 15
+	Date: 2016-06-06 ; Times: 21
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-16 ; Times: 12
+	Date: 2016-06-20 ; Times: 15
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-15 ; Times: 5
+	Date: 2016-06-12 ; Times: 7
+	Date: 2016-06-13 ; Times: 8
+	Date: 2016-06-03 ; Times: 9
+	Date: 2016-06-02 ; Times: 13
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-24 ; Times: 3
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-17 ; Times: 5
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothriechis" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 2
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1925 year &lt;= 1935" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "crotalus angelensis" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Rana warszewitschii" ; Times: 2
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;New Mexico&#34; year &gt;= 1956 year &lt;= 1965" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Hydrophis coggeri" ; Times: 1
+	Query: "genus:Gerrhonotus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Eumeces skiltonianus Nevada" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 8
+	Query: "Micrurus proximans" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia mappable:1" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "aspidoscelis" ; Times: 2
+	Query: "crotalus pyrrhus" ; Times: 1
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 1
+	Query: "crotalus (county: san bernardino)" ; Times: 1
+	Query: "lampropholis delicata" ; Times: 1
+	Query: "tropidodipsas annulifera" ; Times: 1
+	Query: "crotalus atrox year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "crotalus culminatus" ; Times: 1
+	Query: "Holbrookia maculata stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1975" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1936 year &lt;= 1945" ; Times: 1
+	Query: "plestiodon brevirostris" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo NOT minas)" ; Times: 1
+	Query: "crotalus atrox year &gt;= 2000 year &lt;= 2005" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "Masticophis lateralis stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1966 year &lt;= 1975" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "plestiodon copei" ; Times: 1
+	Query: "specificepithet:insculpta family:emydidae" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "ctenosaura hemilopha" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 1
+	Query: "Sphaerodactylus klauberi" ; Times: 1
+	Query: "Rana palmipes" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1956 year &lt;= 1965" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1946 year &lt;= 1955" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 6
+	Query: "Masticophis taeniatus Nevada" ; Times: 3
+	Query: "Gopherus" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 3
+	Query: "micrurus laticollaris" ; Times: 1
+	Query: "desmognathus auriculatus (florida)" ; Times: 1
+	Query: "elgaria coerulea" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "ctenosaura palearis" ; Times: 1
+	Query: "crotalus (San Bernardino)" ; Times: 1
+	Query: "crotalus (county:riverside)" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "genus:kinixys" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "abronia graminea" ; Times: 2
+	Query: "Mauremys" ; Times: 1
+	Query: "crotalus atrox year &gt;= 2010 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "uta stansburiana Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "bipes" ; Times: 1
+	Query: "Pseudoeurycea belli" ; Times: 3
+	Query: "Spea bombifrons stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "atelopus" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 2
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Spea bombifrons country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Papua new guinea&#34;" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1925 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Cuora" ; Times: 2
+	Query: "Dendrobates auratus" ; Times: 1
+	Query: "Gymnophthalmus speciosus" ; Times: 1
+	Query: "deinagkistrodon acutus type:specimen" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Emydura" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "pleurodema" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "genus:Nerodia mappable:1" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 3
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Trachylepis institutioncode:BYU" ; Times: 1
+	Query: "agkistrodon contortrix laticinctus" ; Times: 1
+	Query: "genus:Rana stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+
+
+End of report.
