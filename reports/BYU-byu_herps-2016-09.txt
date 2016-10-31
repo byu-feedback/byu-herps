@@ -1,0 +1,205 @@
+Report for Institution Code BYU, Resource byu_herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 1744
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 100
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 19
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-01 ; Times: 25
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-12 ; Times: 15
+	Date: 2016-09-11 ; Times: 14
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-08 ; Times: 18
+	Date: 2016-09-09 ; Times: 26
+	Date: 2016-09-14 ; Times: 9
+	Date: 2016-09-04 ; Times: 9
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-05 ; Times: 7
+	Date: 2016-09-07 ; Times: 7
+	Date: 2016-09-06 ; Times: 3
+	Date: 2016-09-02 ; Times: 10
+	Date: 2016-09-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudoeurycea belli" ; Times: 1
+	Query: "class:Reptilia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 2
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Eleutherodactylus portoricensis" ; Times: 1
+	Query: "Plestiodon fasciatus specificepithet:fasciatus genus:Plestiodon mappable:1" ; Times: 1
+	Query: "spea multiplicata new mexico" ; Times: 1
+	Query: "lepidus (New Mexico) year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Anolis godmani 1" ; Times: 1
+	Query: "Rana catesbeiana 1" ; Times: 2
+	Query: "Actinemys" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Cnemaspis asia" ; Times: 2
+	Query: "Anolis nitens 1" ; Times: 1
+	Query: "Leptodeira splendida" ; Times: 1
+	Query: "nelsoni terrapene" ; Times: 2
+	Query: "Sceloporus albiventris" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 4
+	Query: "Serpentes (North America)" ; Times: 1
+	Query: "specificepithet:flavescens genus:kinosternon family:kinosternidae stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Anolis fuscoauratus 1" ; Times: 2
+	Query: "Anolis limifrons 1" ; Times: 8
+	Query: "crotalus lepidus" ; Times: 4
+	Query: "panama" ; Times: 2
+	Query: "Anolis uniformis 1" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "Pseudacris" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "Phrynosoma" ; Times: 2
+	Query: "sceloperus undulatus" ; Times: 4
+	Query: "Coniophanes lateritius" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "specificepithet:acutus genus:Deinagkistrodon" ; Times: 1
+	Query: "pituophis" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "spea bombifrons new mexico" ; Times: 1
+	Query: "Thamnophis cyrtopsis Sinaloa" ; Times: 2
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Sonora semiannulata" ; Times: 2
+	Query: "family:Colubridae class:Reptilia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Uma paraphygas" ; Times: 1
+	Query: "lepidus (New Mexico) year &gt;= 1999 year &lt;= 2016" ; Times: 1
+	Query: "Lampropeltis triangulum Arizona" ; Times: 1
+	Query: "crotalus horridus new york" ; Times: 2
+	Query: "Lampropeltis gentilis triangulum" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "Anolis nebulosus 1" ; Times: 2
+	Query: "sceloporus magister" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 2
+	Query: "Anolis intermedius 1" ; Times: 2
+	Query: "Sceloporus ornatus" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "genus:crotalus" ; Times: 1
+	Query: "institutioncode:BYU" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 2
+	Query: "crotalus" ; Times: 1
+	Query: "pseudacris" ; Times: 1
+	Query: "Hypsiglena affinis" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 2
+	Query: "hyla" ; Times: 1
+	Query: "Gambelia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "sceloperus undulatus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Phrynosoma cornutum specificepithet:cornutum genus:Phrynosoma mappable:1" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:viridescens" ; Times: 1
+	Query: "21963" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 1
+	Query: "Tantilla planiceps" ; Times: 2
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: "mexico" ; Times: 1
+	Query: "Sceloporus merriami" ; Times: 3
+	Query: "genus:Crotalus class:Reptilia country:&#34;United States&#34;" ; Times: 2
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Rana catesbeiana  1" ; Times: 4
+	Query: "genus:Plethodon specificepithet:glutinosus" ; Times: 1
+	Query: "Aspidoscelis tigris month &gt;= 1 month &lt;= 12" ; Times: 2
+	Query: "thamnophis" ; Times: 1
+	Query: "Thamnophis cyrtopsis Jalisco" ; Times: 1
+	Query: "terrapene ornata arizona" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "family:Viperidae class:Reptilia country:&#34;United States&#34;" ; Times: 1
+	Query: "Rodent is" ; Times: 1
+	Query: "specificepithet:russelli genus:vipera" ; Times: 1
+	Query: "Anolis nannodes 1" ; Times: 2
+	Query: "lampropeltis triangulum nebraska" ; Times: 4
+	Query: "Opheodrys vernalis stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "lampropeltis nebraska" ; Times: 3
+	Query: "specificepithet:maculosus genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 6
+	Query: "country:&#34;mexico&#34;" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1945 year &lt;= 1950" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "tau sonora" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "Crotalus" ; Times: 2
+	Query: "Sceloporus cowlesi new mexico" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 811 download events in this period)
+Total number of records downloaded: 1372
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 3
+	Date: 2016-09-12 ; Times: 5
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 2
+	Date: 2016-09-09 ; Times: 12
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-05 ; Times: 2
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "coleonyx switaki" ; Times: 1
+	Query: "anolis capito" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Eleutherodactylus portoricensis" ; Times: 1
+	Query: "uropeltis" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "specificepithet:cyanogenys genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "chiropterotriton" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "clelia" ; Times: 2
+	Query: "eleutherodactylus nitidus" ; Times: 1
+	Query: "anolis ricordi" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "specificepithet:maculosus genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rana sierrae" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "Lampropeltis triangulum Arizona" ; Times: 1
+	Query: "bufo occidentalis" ; Times: 1
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "uropeltidae" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "locality:Manantiales country:&#34;argentina&#34;" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Lithodytes lineatus" ; Times: 1
+
+
+End of report.
