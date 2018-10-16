@@ -1,0 +1,698 @@
+Report for Institution Code BYU, Resource byu_herps
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 569
+Number of records retrieved in searches: 3074
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 490
+	Country: Israel ; Times: 6
+	Country: Australia ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: Russia ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: Panama ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 8
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Dominican Republic ; Times: 2
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 4
+	Date: 2018-04-28 ; Times: 5
+	Date: 2018-04-23 ; Times: 27
+	Date: 2018-04-22 ; Times: 9
+	Date: 2018-04-21 ; Times: 71
+	Date: 2018-04-20 ; Times: 127
+	Date: 2018-04-27 ; Times: 13
+	Date: 2018-04-26 ; Times: 14
+	Date: 2018-04-25 ; Times: 10
+	Date: 2018-04-24 ; Times: 9
+	Date: 2018-04-01 ; Times: 6
+	Date: 2018-04-03 ; Times: 11
+	Date: 2018-04-02 ; Times: 10
+	Date: 2018-04-05 ; Times: 10
+	Date: 2018-04-04 ; Times: 21
+	Date: 2018-04-07 ; Times: 8
+	Date: 2018-04-06 ; Times: 11
+	Date: 2018-04-09 ; Times: 16
+	Date: 2018-04-08 ; Times: 5
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-12 ; Times: 21
+	Date: 2018-04-13 ; Times: 16
+	Date: 2018-04-10 ; Times: 13
+	Date: 2018-04-11 ; Times: 23
+	Date: 2018-04-30 ; Times: 6
+	Date: 2018-04-17 ; Times: 44
+	Date: 2018-04-14 ; Times: 5
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-18 ; Times: 16
+	Date: 2018-04-19 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "scincus scincus" ; Times: 2
+	Query: "genus:Crotaphytus sex:Male OR Female" ; Times: 1
+	Query: "&#34;grassy pond&#34; (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;) year &gt;= 1970" ; Times: 1
+	Query: "catalognumber:21985 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:41389 institutioncode:BYU" ; Times: 1
+	Query: "family:Crotalidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:aneides stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "ljamm" ; Times: 1
+	Query: "catalognumber:20744 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:34611 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:gryllus genus:Acris stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "catalognumber:34749 institutioncode:BYU" ; Times: 3
+	Query: "catalognumber:18966 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:34750 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:14962 institutioncode:BYU" ; Times: 2
+	Query: "Jacksonville Zoo" ; Times: 1
+	Query: "catalognumber:13017 institutioncode:BYU" ; Times: 1
+	Query: "Ceratophora" ; Times: 1
+	Query: "catalognumber:42713 institutioncode:BYU" ; Times: 2
+	Query: "genus:Leptodeira sex:male OR female" ; Times: 1
+	Query: "catalognumber:34753 institutioncode:BYU" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "family:typhlopidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "cnemaspis" ; Times: 2
+	Query: "catalognumber:45628 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "genus:Callisaurus sex:male OR female" ; Times: 3
+	Query: "catalognumber:20748 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:20751 institutioncode:BYU" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "genus:Rhinocheilus sex:male OR female" ; Times: 1
+	Query: "catalognumber:45620 institutioncode:BYU" ; Times: 2
+	Query: "North Midden" ; Times: 1
+	Query: "liotyphlops albirostris" ; Times: 2
+	Query: "genus:Phyllorhynchus sex:male OR female" ; Times: 2
+	Query: "beck" ; Times: 1
+	Query: "catalognumber:42856 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:45618 institutioncode:BYU" ; Times: 1
+	Query: "order:anura locality:India" ; Times: 2
+	Query: "catalognumber:30779 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:38372 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:montezumae family:Ranidae" ; Times: 1
+	Query: "catalognumber:37097 institutioncode:BYU" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "crotophytus collaris" ; Times: 1
+	Query: "catalognumber:42848 institutioncode:BYU" ; Times: 1
+	Query: "genus:Thamnophis sex:male OR female" ; Times: 2
+	Query: "catalognumber:34662 institutioncode:BYU" ; Times: 2
+	Query: "Hyla chrysoscelis" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;) year &gt;= 1970" ; Times: 2
+	Query: "genus:heloderma sex:male OR female" ; Times: 2
+	Query: "specificepithet:tuberculosus genus:phyllodactylus country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:16536 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis stateprovince:&#34;baja california&#34;" ; Times: 2
+	Query: "crotaphytus bicinctores" ; Times: 1
+	Query: "catalognumber:11260 institutioncode:BYU" ; Times: 1
+	Query: "lampropeltis pyromelana arizona" ; Times: 1
+	Query: "catalognumber:23802 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:catalinensis genus:crotalus" ; Times: 1
+	Query: "genus:Aspidoscelis sex:male OR female" ; Times: 5
+	Query: "catalognumber:39691 institutioncode:BYU" ; Times: 3
+	Query: "catalognumber:34752 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:39687 institutioncode:BYU" ; Times: 1
+	Query: "Crotalus stephensi stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "catalognumber:41403 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:32227 institutioncode:BYU" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "catalognumber:41391 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:30789 institutioncode:BYU" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "family:colubridae county:&#34;escambia&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "agkistrodon contortrix maryland" ; Times: 1
+	Query: "catalognumber:30781 institutioncode:BYU" ; Times: 1
+	Query: "genus:Gambelia locality:Borrego" ; Times: 2
+	Query: "class:Reptilia county:&#34;Love&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:16535 institutioncode:BYU" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "ambystoma granulosum" ; Times: 1
+	Query: "catalognumber:355 institutioncode:BYU" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:41407 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:montanus county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 1
+	Query: "Fejervarya multistriata" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "genus:drymarchon sex:male OR female" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "catalognumber:36991 institutioncode:BYU" ; Times: 1
+	Query: "genus:agkistrodon sex:male OR female" ; Times: 2
+	Query: "genus:Sceloporus year &gt;= 1922 year &lt;= 1922" ; Times: 1
+	Query: "catalognumber:30786 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:350 institutioncode:BYU" ; Times: 1
+	Query: "Lampropeltis getula stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "catalognumber:13015 institutioncode:BYU" ; Times: 1
+	Query: "genus:Sauromalus sex:Male OR Female" ; Times: 1
+	Query: "catalognumber:14699 institutioncode:BYU" ; Times: 2
+	Query: "anolis" ; Times: 5
+	Query: "byu" ; Times: 1
+	Query: "crotophytus" ; Times: 1
+	Query: "catalognumber:42213 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:41746 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:18576 institutioncode:BYU" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "barisia levicollis" ; Times: 1
+	Query: "Rana areolata" ; Times: 1
+	Query: "catalognumber:4974 institutioncode:BYU" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Tachymenis peruviana" ; Times: 1
+	Query: "catalognumber:4909 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:34756 institutioncode:BYU" ; Times: 1
+	Query: "chalcides ocellatus" ; Times: 3
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Puebla&#34;" ; Times: 1
+	Query: "genus:tantilla sex:male OR female" ; Times: 2
+	Query: "catalognumber:37100 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:34755 institutioncode:BYU" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 4
+	Query: "specificepithet:consobrinus genus:Sceloporus" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "lampropeltis triangulum arizona" ; Times: 5
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "Scaphiopus hurterii" ; Times: 1
+	Query: "catalognumber:36931 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:45927 institutioncode:BYU" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "catalognumber:42841 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:41698 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:Montezumae family:Ranidae country:&#34;Mexico&#34;" ; Times: 2
+	Query: "spea hammondi" ; Times: 2
+	Query: "catalognumber:36960 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:42398 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:41699 institutioncode:BYU" ; Times: 1
+	Query: "family:plethodontidae county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "catalognumber:42857 institutioncode:BYU" ; Times: 1
+	Query: "oklahoma triangulum" ; Times: 1
+	Query: "(plethodon maryland allegheny)" ; Times: 1
+	Query: "catalognumber:46640 institutioncode:BYU" ; Times: 4
+	Query: "genus:Dipsosaurus sex:male OR female" ; Times: 2
+	Query: "catalognumber:349 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:43506 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:43510 institutioncode:BYU" ; Times: 1
+	Query: "genus:Bufo specificepithet:bankorensis" ; Times: 1
+	Query: "08 481" ; Times: 1
+	Query: "genus:Leptotyphlops sex:male OR female" ; Times: 1
+	Query: "catalognumber:41401 institutioncode:BYU" ; Times: 1
+	Query: "Boiga irregularis" ; Times: 2
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;San diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rana montezumae" ; Times: 5
+	Query: "Utah turtle" ; Times: 3
+	Query: "family:Colubridae class:Reptilia county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "lampropeltis triangulum coconino county arizona" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 2
+	Query: "catalognumber:34751 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:38379 institutioncode:BYU" ; Times: 1
+	Query: "Tachymenis peruviana mappable:1" ; Times: 1
+	Query: "genus:Anolis" ; Times: 1
+	Query: "specificepithet:nasus labialis genus:conopsis" ; Times: 1
+	Query: "specificepithet:mabeei genus:ambystoma stateprovince:&#34;north carolina&#34; (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;)" ; Times: 1
+	Query: "catalognumber:5432 institutioncode:BYU" ; Times: 4
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Orange&#34;" ; Times: 1
+	Query: "catalognumber:30783 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:30787 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:nasus genus:conopsis" ; Times: 2
+	Query: "heterodon maryland" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "hyla" ; Times: 1
+	Query: "catalognumber:3645 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:chaneyi genus:Sceloporus" ; Times: 2
+	Query: "catalognumber:41398 institutioncode:BYU" ; Times: 1
+	Query: "class:Reptilia county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 2
+	Query: "family:Xantusiidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "catalognumber:36930 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:42729 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:42090 institutioncode:BYU" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "catalognumber:41390 institutioncode:BYU" ; Times: 1
+	Query: "genus:Coluber sex:male OR female" ; Times: 1
+	Query: "catalognumber:1290 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:36929 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:38375 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:37679 institutioncode:BYU" ; Times: 1
+	Query: "genus:Plethodon" ; Times: 1
+	Query: "catalognumber:42673 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:46858 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:42091 institutioncode:BYU" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "Rana grylio" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 2
+	Query: "genus:callisaurus sex:male OR female" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "Bufo bankorensis" ; Times: 2
+	Query: "stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "catalognumber:8277 institutioncode:BYU" ; Times: 1
+	Query: "genus:pituophis sex:male OR female" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "specificepithet:dulcis stateprovince:&#34;Arizona&#34;" ; Times: 5
+	Query: "catalognumber:21392 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:42725 institutioncode:BYU" ; Times: 1
+	Query: "genus:Sonora sex:male OR female" ; Times: 2
+	Query: "catalognumber:41399 institutioncode:BYU" ; Times: 1
+	Query: "genus:Desmognathus" ; Times: 2
+	Query: "Sitana" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 2
+	Query: "genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:41111 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:42724 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "genus:Salvadora sex:male OR female" ; Times: 3
+	Query: "Gerrhonotus" ; Times: 1
+	Query: "bitis gabonica" ; Times: 1
+	Query: "catalognumber:2759 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:42709 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:1949 institutioncode:BYU" ; Times: 1
+	Query: "Lampropeltis calligaster stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:montanus genus:Pseudotriton stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Yuma county Crotalus" ; Times: 1
+	Query: "scaphiopus hammondi" ; Times: 1
+	Query: "catalognumber:42695 institutioncode:BYU" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "catalognumber:36945 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:30788 institutioncode:BYU" ; Times: 1
+	Query: "genus:charina sex:male OR female" ; Times: 1
+	Query: "catalognumber:30799 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:triseriata genus:pseudacris stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "masticophis aurigulus" ; Times: 1
+	Query: "genus:Anolis " ; Times: 2
+	Query: "genus:micruroides country:&#34;mexico&#34;" ; Times: 1
+	Query: "34929" ; Times: 2
+	Query: "catalognumber:36932 institutioncode:BYU" ; Times: 1
+	Query: "genus:plestiodon sex:male OR female" ; Times: 1
+	Query: "typhlops lineatus" ; Times: 1
+	Query: "catalognumber:8276 institutioncode:BYU" ; Times: 1
+	Query: "class:Amphibia county:&#34;Red River&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "catalognumber:120 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:46087 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:45617 institutioncode:BYU" ; Times: 1
+	Query: "Coniophanes lateritius" ; Times: 3
+	Query: "catalognumber:575 institutioncode:BYU" ; Times: 1
+	Query: "genus:gerrhonotus sex:male OR female" ; Times: 1
+	Query: "catalognumber:45627 institutioncode:BYU" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Anolis locality:Panama" ; Times: 1
+	Query: "specificepithet: distans genus:micrurus" ; Times: 1
+	Query: "catalognumber:45619 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:1299 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:352 institutioncode:BYU" ; Times: 1
+	Query: "plestiodon callicephalus" ; Times: 2
+	Query: "catalognumber:42710 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:36928 institutioncode:BYU" ; Times: 1
+	Query: "genus:Chilomeniscus sex:male OR female" ; Times: 1
+	Query: "Pseudoeurycea belli" ; Times: 1
+	Query: "catalognumber:21489 institutioncode:BYU" ; Times: 1
+	Query: "chameleo" ; Times: 3
+	Query: "catalognumber:20745 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:41400 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:42962 institutioncode:BYU" ; Times: 1
+	Query: "malpolon insignitus" ; Times: 1
+	Query: "catalognumber:41406 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ficimia sex:male OR female" ; Times: 1
+	Query: "Coleonyx brevis New Mexico" ; Times: 2
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "genus:trimorphodon stateprovince:&#34;nevada&#34;" ; Times: 3
+	Query: "catalognumber:14963 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:34700 institutioncode:BYU" ; Times: 3
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "catalognumber:31187 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:20749 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:21266 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:39660 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:340 institutioncode:BYU" ; Times: 1
+	Query: "Xantusiidae hastissue:1 year &gt;= 2012" ; Times: 1
+	Query: "specificepithet:microscaphus genus:bufo county:&#34;los angeles&#34;" ; Times: 1
+	Query: "catalognumber:42732 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:12525 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:41405 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:799 institutioncode:BYU" ; Times: 2
+	Query: "genus:Micruroides sex:male OR female" ; Times: 1
+	Query: "catalognumber:45926 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:4908 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:39690 institutioncode:BYU" ; Times: 2
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "catalognumber:16747 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:34601 institutioncode:BYU" ; Times: 1
+	Query: "Anolis" ; Times: 3
+	Query: "catalognumber:544 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:42702 institutioncode:BYU" ; Times: 1
+	Query: "Utah amphibia" ; Times: 2
+	Query: "catalognumber:41386 institutioncode:BYU" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "catalognumber:30782 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:41702 institutioncode:BYU" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "catalognumber:41388 institutioncode:BYU" ; Times: 1
+	Query: "Anomalepididae" ; Times: 1
+	Query: "catalognumber:30784 institutioncode:BYU" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Gambelia county:&#34;San Diego&#34; month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "genus:drymobius sex:male OR female" ; Times: 1
+	Query: "catalognumber:43149 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:42844 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:1298 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:46118 institutioncode:BYU" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Carteret&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Anaxyrus debilis" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "genus:Oxybelis sex:male OR female" ; Times: 1
+	Query: "Panaspis togoensis" ; Times: 1
+	Query: "catalognumber:1947 institutioncode:BYU" ; Times: 1
+	Query: "&#34;gyrinophilus&#34; OR &#34;longicauda&#34; OR &#34;montanus&#34; OR &#34;scutatum&#34; OR &#34;aneides&#34; family:plethodontidae county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "north midden" ; Times: 1
+	Query: "catalognumber:16534 institutioncode:BYU" ; Times: 1
+	Query: "cyrtopsis genus:Thamnophis mappable:1" ; Times: 2
+	Query: "specificepithet:intermedia genus:siren (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;)" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+	Query: "catalognumber:37678 institutioncode:BYU" ; Times: 1
+	Query: "crotalus enyo furvus" ; Times: 1
+	Query: "catalognumber:30785 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:45621 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:16804 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:10849 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:triseriatus genus:crotalus" ; Times: 3
+	Query: "teiidae" ; Times: 2
+	Query: "family:Scincidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "catalognumber:45626 institutioncode:BYU" ; Times: 1
+	Query: "genus:Hypsiglena sex:male OR female" ; Times: 2
+	Query: "genus:Gambelia sex:male OR female" ; Times: 1
+	Query: "catalognumber:8278 institutioncode:BYU" ; Times: 1
+	Query: "maryland allegheny" ; Times: 1
+	Query: "catalognumber:46117 institutioncode:BYU" ; Times: 1
+	Query: "genus:Uta sex:male OR female" ; Times: 1
+	Query: "infralabialis" ; Times: 2
+	Query: "catalognumber:30780 institutioncode:BYU" ; Times: 1
+	Query: "genus:Bogertophis sex:male OR female" ; Times: 1
+	Query: "Acris crepitans" ; Times: 1
+	Query: "catalognumber:686 institutioncode:BYU" ; Times: 1
+	Query: "Mabuya nigropunctata" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "catalognumber:14645 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:34754 institutioncode:BYU" ; Times: 1
+	Query: "Triangulum arizona" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 7
+	Query: "catalognumber:34622 institutioncode:BYU" ; Times: 1
+	Query: "Lampropeltis triangulum syspila" ; Times: 2
+	Query: "specificepithet:gilberti genus:Plestiodon county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "genus:xantusia sex:male OR female" ; Times: 1
+	Query: "catalognumber:43157 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:37109 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:37104 institutioncode:BYU" ; Times: 1
+	Query: "genus:agkistrodon county:&#34;gonzales&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "crotalus concolor" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "catalognumber:45616 institutioncode:BYU" ; Times: 3
+	Query: "catalognumber:9070 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:rosaliae genus:Bogertophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "catalognumber:42860 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:distans genus:micrurus" ; Times: 1
+	Query: "Sceloporus orcutti licki" ; Times: 1
+	Query: "catalognumber:42851 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:switaki genus:Coleonyx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Sceloporus couchii" ; Times: 1
+	Query: "micrurus distans" ; Times: 4
+	Query: "catalognumber:1636 institutioncode:BYU" ; Times: 2
+	Query: "Ceratophora aspera" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+	Query: "specificepithet:versicolor genus:hyla stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "catalognumber:14923 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:1284 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;San Diego&#34;" ; Times: 1
+	Query: "wisconsin necturus" ; Times: 6
+	Query: "catalognumber:2760 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:34699 institutioncode:BYU" ; Times: 1
+	Query: "genus:masticophis sex:male OR female" ; Times: 1
+	Query: "plethodon" ; Times: 5
+	Query: "catalognumber:41387 institutioncode:BYU" ; Times: 1
+	Query: "hypsiglena jani texana" ; Times: 1
+	Query: "genus:Chionactis sex:male OR female" ; Times: 1
+	Query: "catalognumber:16537 institutioncode:BYU" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 16
+	Query: "Tropidonophis truncatus" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "catalognumber:41402 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:43735 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:20747 institutioncode:BYU" ; Times: 2
+	Query: "genus:coleonyx county:&#34;San Diego&#34; month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "specificepithet:switaki genus:Coleonyx stateprovince:&#34;California&#34; country:&#34;United states&#34;" ; Times: 1
+	Query: "genus:Gerrhonotus sex:male OR female" ; Times: 1
+	Query: "catalognumber:364 institutioncode:BYU" ; Times: 2
+	Query: "(catesbeianus OR catesbeiana)" ; Times: 1
+	Query: "catalognumber:45928 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:atrox genus:bothrops country:&#34;mexico&#34;" ; Times: 1
+	Query: "chionactis occipitalis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "chrysoscelis" ; Times: 1
+	Query: "catalognumber:34661 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:41653 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:42842 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:43147 institutioncode:BYU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 198 (out of 1359 download events in this period)
+Total number of records downloaded: 14731
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 170
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 37
+	Date: 2018-04-22 ; Times: 15
+	Date: 2018-04-20 ; Times: 14
+	Date: 2018-04-27 ; Times: 4
+	Date: 2018-04-26 ; Times: 4
+	Date: 2018-04-25 ; Times: 6
+	Date: 2018-04-24 ; Times: 3
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 7
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 5
+	Date: 2018-04-16 ; Times: 7
+	Date: 2018-04-12 ; Times: 39
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-10 ; Times: 10
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 10
+	Date: 2018-04-14 ; Times: 2
+	Date: 2018-04-15 ; Times: 7
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "Reptilia Zacatecas" ; Times: 2
+	Query: "genus:pituophis sex:male OR female" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Crotaphytus sex:Male OR Female" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Sonora sex:male OR female" ; Times: 2
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 2
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:Sauromalus sex:Male OR Female" ; Times: 1
+	Query: "genus:Farancia sex:male OR female" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "distance(location,geopoint(46.76972,-100.91535))&lt;50000" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "genus:carphophis sex:male OR female" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Contia sex:Male OR Female" ; Times: 1
+	Query: "Rana areolata" ; Times: 1
+	Query: "genus:Trimorphodon sex:male OR female" ; Times: 1
+	Query: "&#34;gyrinophilus&#34; OR &#34;longicauda&#34; OR &#34;montanus&#34; OR &#34;scutatum&#34; OR &#34;aneides&#34; family:plethodontidae county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:tantilla sex:male OR female" ; Times: 2
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:anniella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Sphaerodactylus sex:male OR female" ; Times: 1
+	Query: "genus:Gambelia sex:male OR female" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:Virginia sex:male OR female" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "Sceloporus licki" ; Times: 1
+	Query: "Scaphiopus hurterii" ; Times: 1
+	Query: "specificepithet:mabeei genus:ambystoma stateprovince:&#34;north carolina&#34; (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;)" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "genus:Coleonyx sex:male OR female" ; Times: 2
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "genus:Rhinocheilus sex:male OR female" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "specificepithet:Montezumae family:Ranidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:holbrookia sex:male OR female" ; Times: 1
+	Query: "spea hammondi" ; Times: 1
+	Query: "genus:charina sex:male OR female" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Thorius" ; Times: 1
+	Query: "family:Crotalidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:Hypsiglena sex:male OR female" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "genus:Phyllorhynchus sex:male OR female" ; Times: 2
+	Query: "genus:sistrurus sex:male OR female" ; Times: 1
+	Query: "genus:Uta sex:male OR female" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "class:Amphibia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Acris crepitans" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:plestiodon sex:male OR female" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+	Query: "genus:Dipsosaurus sex:male OR female" ; Times: 2
+	Query: "genus:diadophis sex:male OR female" ; Times: 1
+	Query: "genus:Heterodon sex:Male OR Female" ; Times: 1
+	Query: "genus:Elgaria sex:male OR female" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:agkistrodon sex:male OR female" ; Times: 2
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "genus:Phyllodactylus sex:male OR female" ; Times: 1
+	Query: "genus:lampropeltis sex:male OR female" ; Times: 1
+	Query: "sceloporus malachiticus" ; Times: 1
+	Query: "genus:Callisaurus sex:male OR female" ; Times: 3
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "genus:xantusia sex:male OR female" ; Times: 1
+	Query: "genus:Regina sex:male OR female" ; Times: 1
+	Query: "Rana montezumae" ; Times: 2
+	Query: "genus:Micrurus sex:male OR female" ; Times: 1
+	Query: "genus:Thamnophis sex:male OR female" ; Times: 2
+	Query: "petrosaurus thalassinus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 1
+	Query: "genus:Lampropeltis sex:male OR female" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "bothrops asper" ; Times: 1
+	Query: "Cnemidophorus hyperythrus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "sceloporus smaragdinus" ; Times: 1
+	Query: "Tachymenis peruviana mappable:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "genus:masticophis sex:male OR female" ; Times: 1
+	Query: "genus:Salvadora sex:male OR female" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Aspidoscelis sex:male OR female" ; Times: 3
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:anolis sex:male OR female" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;Cauca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "genus:opheodrys sex:male OR female" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 2
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+	Query: "genus:gopherus sex:male OR female" ; Times: 1
+	Query: "class:Reptilia county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "genus:heloderma sex:male OR female" ; Times: 1
+	Query: "genus:storeria sex:male OR female" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "genus:Opheodrys sex:male OR female" ; Times: 2
+	Query: "specificepithet:lacerata genus:Holbrookia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Colubridae (stomach)" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "Anaxyrus debilis" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "genus:Coluber sex:male OR female" ; Times: 1
+	Query: "genus:Chionactis sex:male OR female" ; Times: 1
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "genus:Scincella sex:male OR female" ; Times: 3
+	Query: "bothrops atrox" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:Anolis sex:male OR female" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lampropeltis New Mexico" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 2
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "Rana grylio" ; Times: 1
+	Query: "specificepithet:montezumae family:Ranidae" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "genus:Coniophanes sex:male OR female" ; Times: 2
+	Query: "genus:callisaurus sex:male OR female" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Fejervarya multistriata" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "family:Ambystomatidae locality:Mexico" ; Times: 1
+	Query: "genus:drymarchon sex:male OR female" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "Ambystoma velasci" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "genus:Urosaurus sex:male OR female" ; Times: 1
+
+
+End of report.
