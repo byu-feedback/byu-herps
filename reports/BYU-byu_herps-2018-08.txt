@@ -1,0 +1,569 @@
+Report for Institution Code BYU, Resource byu_herps
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 793
+Number of records retrieved in searches: 10655
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 668
+	Country: Australia ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Mexico ; Times: 63
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 6
+	Country: Guatemala ; Times: 1
+	Country: Spain ; Times: 28
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 6
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 9
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-19 ; Times: 7
+	Date: 2018-08-16 ; Times: 5
+	Date: 2018-08-23 ; Times: 20
+	Date: 2018-08-14 ; Times: 14
+	Date: 2018-08-15 ; Times: 12
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 4
+	Date: 2018-08-10 ; Times: 10
+	Date: 2018-08-11 ; Times: 6
+	Date: 2018-08-02 ; Times: 17
+	Date: 2018-08-08 ; Times: 51
+	Date: 2018-08-03 ; Times: 16
+	Date: 2018-08-17 ; Times: 15
+	Date: 2018-08-27 ; Times: 62
+	Date: 2018-08-26 ; Times: 5
+	Date: 2018-08-25 ; Times: 4
+	Date: 2018-08-24 ; Times: 14
+	Date: 2018-08-09 ; Times: 12
+	Date: 2018-08-22 ; Times: 29
+	Date: 2018-08-21 ; Times: 30
+	Date: 2018-08-20 ; Times: 187
+	Date: 2018-08-05 ; Times: 40
+	Date: 2018-08-04 ; Times: 6
+	Date: 2018-08-07 ; Times: 14
+	Date: 2018-08-06 ; Times: 18
+	Date: 2018-08-01 ; Times: 9
+	Date: 2018-08-29 ; Times: 158
+	Date: 2018-08-28 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Willardi" ; Times: 1
+	Query: "catalognumber:37667 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:35963 institutioncode:BYU" ; Times: 2
+	Query: "Bothriopsis institutioncode:BYU" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 7
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Sistrurus tergeminus" ; Times: 7
+	Query: "catalognumber:15349 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Ohio&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "genus:Coluber OR Masticophis sex:male OR female" ; Times: 1
+	Query: "genus:Sonora sex:male OR female" ; Times: 1
+	Query: "LJW 129" ; Times: 2
+	Query: "LJW 128" ; Times: 2
+	Query: "49831" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT FMNH)" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Pyromelana" ; Times: 1
+	Query: "LJW 127" ; Times: 3
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "LJW 98" ; Times: 2
+	Query: "hyalinobatrachium taylori" ; Times: 2
+	Query: "plestiodon brevirostris durango" ; Times: 1
+	Query: "LJW 256" ; Times: 1
+	Query: "Rhadinaea montana" ; Times: 5
+	Query: "trimeresurus institutioncode:BYU" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "catalognumber:14699 institutioncode:BYU" ; Times: 3
+	Query: "byu" ; Times: 2
+	Query: "LJW 0382" ; Times: 2
+	Query: "specificepithet:ater genus:Sauromalus locality:Isla" ; Times: 2
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;Brewster&#34;" ; Times: 1
+	Query: "Ambystoma laterale mappable:1" ; Times: 2
+	Query: "catalognumber:41746 institutioncode:BYU" ; Times: 2
+	Query: "Abyssus" ; Times: 1
+	Query: "specificepithet:flaviventris genus:bolitoglossa" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "30447 Atelopus" ; Times: 2
+	Query: "Sistrurus texas" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "Plestiodon brevirostris" ; Times: 2
+	Query: "boiga (Solomon islands)" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:4974 institutioncode:BYU" ; Times: 2
+	Query: "48541" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 3
+	Query: "Hemidactylium scutatum mappable:1" ; Times: 1
+	Query: "LJW 133" ; Times: 1
+	Query: "LJW 130" ; Times: 2
+	Query: "agkistrodon institutioncode:BYU" ; Times: 1
+	Query: "LJW 0207" ; Times: 2
+	Query: "thamnophis sirtalis idaho" ; Times: 2
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "country:&#34;Argentina&#34;" ; Times: 1
+	Query: "catalognumber:46667 institutioncode:BYU" ; Times: 2
+	Query: "bothriopsis institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:16534 institutioncode:BYU" ; Times: 2
+	Query: "atheris institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:42394 institutioncode:BYU" ; Times: 2
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "mantipus order:anura" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34; institutioncode:BYU" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "catalognumber:13872 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "LJW 536" ; Times: 2
+	Query: "genus:Pantherophis OR Elaphe sex:male OR female" ; Times: 2
+	Query: "catesbeiana" ; Times: 1
+	Query: "catalognumber:17108 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:5176 institutioncode:BYU" ; Times: 2
+	Query: "deinagkistrodon" ; Times: 1
+	Query: "emoia nigra" ; Times: 2
+	Query: "specificepithet:wigginsi genus:Xantusia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "Naja mappable:1" ; Times: 3
+	Query: "catalognumber:20751 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:45927 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:xanti genus:Phyllodactylus country:&#34;Mexico&#34;" ; Times: 4
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "specificepithet:atriceps genus:tantilla country:&#34;United States&#34;" ; Times: 1
+	Query: "Natrix grahami" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "LJW 115" ; Times: 2
+	Query: "chamaeleo gracilis" ; Times: 1
+	Query: "LJW 270" ; Times: 2
+	Query: "LJW 273" ; Times: 1
+	Query: "&#34;sunset beach&#34;" ; Times: 1
+	Query: "Micruroides new mexico" ; Times: 1
+	Query: "Heloderma Chiapas" ; Times: 1
+	Query: "catalognumber:30788 institutioncode:BYU" ; Times: 2
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "country:&#34;Philippines&#34; order:squamata" ; Times: 1
+	Query: "Crotalus" ; Times: 1
+	Query: "11363" ; Times: 2
+	Query: "catalognumber:11294 institutioncode:BYU" ; Times: 2
+	Query: "emoia nigra solomon islands" ; Times: 1
+	Query: "lampropeltis taylori" ; Times: 1
+	Query: "sistrurus institutioncode:BYU" ; Times: 1
+	Query: "drymarchon melanurus" ; Times: 1
+	Query: "order:Caudata" ; Times: 1
+	Query: "catalognumber:45626 institutioncode:BYU" ; Times: 2
+	Query: "genus:Gambelia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "LJW 602" ; Times: 1
+	Query: "catalognumber:5681 institutioncode:BYU" ; Times: 2
+	Query: "genus:Sauromalus institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:21717 institutioncode:BYU" ; Times: 2
+	Query: "genus:Lichanura OR Charina sex:male OR female" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:naja country:&#34;cameroon&#34;" ; Times: 1
+	Query: "catalognumber:41407 institutioncode:BYU" ; Times: 4
+	Query: "catalognumber:42726 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:atriceps genus:tantilla stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:berlandieri family:Ranidae county:&#34;Brazos&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crotalus pyrrhus arizona" ; Times: 1
+	Query: "catalognumber:45271 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:bottae genus:Charina year &gt;= 2005 year &lt;= 2018" ; Times: 1
+	Query: "genus:Elaphe sex:male OR female" ; Times: 1
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 3
+	Query: "specificepithet:polylepis genus:Dendroaspis family:Elapidae order:Squamata" ; Times: 1
+	Query: "genus:Eumeces OR Plestiodon sex:male OR female" ; Times: 1
+	Query: "catalognumber:15321 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:45272 institutioncode:BYU" ; Times: 2
+	Query: "genus:Anolis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:13871 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:46640 institutioncode:BYU" ; Times: 2
+	Query: "genus:Naja specificepithet:mossambica" ; Times: 4
+	Query: "genus: sistrurus county:&#34;carteret&#34; stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "Barisia imbricata mexico" ; Times: 3
+	Query: "Crotalus institutioncode:BYU" ; Times: 3
+	Query: "catalognumber:42690 institutioncode:BYU" ; Times: 2
+	Query: "39306" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "catalognumber:8846 institutioncode:BYU" ; Times: 2
+	Query: "LJW 118" ; Times: 2
+	Query: "genus:Naja melanoleuca" ; Times: 4
+	Query: "sistrurus tergeminus" ; Times: 2
+	Query: "Crotalus catalinensis" ; Times: 3
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LJW 0330" ; Times: 2
+	Query: "Spea intermontana" ; Times: 2
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 5
+	Query: "phyllodactylus unctus" ; Times: 1
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "Naja" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "catalognumber:48965 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:46086 institutioncode:BYU" ; Times: 2
+	Query: "class:Amphibia county:&#34;Story&#34; stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "catalognumber:39673 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:47665 institutioncode:BYU" ; Times: 4
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Xantusia county:&#34;Inyo&#34;" ; Times: 2
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "catalognumber:46087 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:43157 institutioncode:BYU" ; Times: 2
+	Query: "Naja melanoleuca" ; Times: 2
+	Query: "catalognumber:15350 institutioncode:BYU" ; Times: 2
+	Query: "Xenosaurus" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 2
+	Query: "genus:Cnemidophorus OR Aspidoscelis sex:male OR female" ; Times: 1
+	Query: "Crotalus lannomi" ; Times: 2
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 4
+	Query: "catalognumber:15344 institutioncode:BYU" ; Times: 3
+	Query: "catalognumber:41724 institutioncode:BYU" ; Times: 2
+	Query: "order:Squamata stateprovince:&#34;Iowa&#34; distance(location,geopoint(42.04222606632212,-93.63482359822234))&lt;11861" ; Times: 1
+	Query: "catalognumber:45627 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:lateralis genus:Lygosoma" ; Times: 1
+	Query: "thamnophis ordinoides" ; Times: 1
+	Query: "catalognumber:37673 institutioncode:BYU" ; Times: 2
+	Query: "Bothrops moojeni" ; Times: 1
+	Query: "LJW 0539" ; Times: 2
+	Query: "catalognumber:14923 institutioncode:BYU" ; Times: 3
+	Query: "Rhinoclemmys pulcherrima" ; Times: 2
+	Query: "catalognumber:16536 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:suspectum genus:Heloderma sex:male OR female" ; Times: 1
+	Query: "recordedby:Tim Warfel year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Anolis" ; Times: 1
+	Query: "genus:Charina OR Lichanura sex:male OR female" ; Times: 1
+	Query: "rhadinaea montana" ; Times: 3
+	Query: "genus:Uma stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "specificepithet:rosaliae genus:Bogertophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "catalognumber:11260 institutioncode:BYU" ; Times: 2
+	Query: "lampropeltis triangulum New mexico" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "sceloporus" ; Times: 2
+	Query: "naja Taiwan" ; Times: 1
+	Query: "catalognumber:42717 institutioncode:BYU" ; Times: 2
+	Query: "genus:Charina sex:male OR female" ; Times: 1
+	Query: "crotalus" ; Times: 9
+	Query: "naja melanoleuca" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 36
+	Query: "catalognumber:39678 institutioncode:BYU" ; Times: 2
+	Query: "Eryx johnii" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "Crotalus culminatus" ; Times: 1
+	Query: "catalognumber:40052 institutioncode:BYU" ; Times: 3
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "spea intermontana USU" ; Times: 1
+	Query: "crotalus mitchelli arizona" ; Times: 2
+	Query: "Reptilia Jalisco" ; Times: 1
+	Query: "genus:Chilomeniscus sex:male OR female" ; Times: 3
+	Query: "specificepithet:xolocalcae" ; Times: 1
+	Query: "catalognumber:49426 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:21489 institutioncode:BYU" ; Times: 2
+	Query: "genus:Masticophis sex:male OR female" ; Times: 2
+	Query: "catalognumber:46666 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:22220 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:40051 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:1636 institutioncode:BYU" ; Times: 2
+	Query: "genus:Aspidoscelis" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 2
+	Query: "catalognumber:42708 institutioncode:BYU" ; Times: 2
+	Query: "genus:Sauromalus sex:male OR female" ; Times: 2
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "genus:Sistrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:41400 institutioncode:BYU" ; Times: 3
+	Query: "Lacerta schreiberi" ; Times: 1
+	Query: "genus:Heloderma sex:male OR female" ; Times: 1
+	Query: "catalognumber:46856 institutioncode:BYU" ; Times: 4
+	Query: "catalognumber:41653 institutioncode:BYU" ; Times: 2
+	Query: "Plethodon" ; Times: 2
+	Query: "catalognumber:37670 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:17113 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:marmorea genus:bolitoglossa" ; Times: 1
+	Query: "catalognumber:16804 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:15313 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:36182 institutioncode:BYU" ; Times: 1
+	Query: "Crotalus abyssus" ; Times: 7
+	Query: "LJW 102" ; Times: 1
+	Query: "catalognumber:15314 institutioncode:BYU" ; Times: 2
+	Query: "locality:inscription" ; Times: 1
+	Query: "LJW 107" ; Times: 2
+	Query: "sceloporus hunsakeri" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 2
+	Query: "locality:Toiyabe institutioncode:BYU" ; Times: 1
+	Query: "recordedby:balmer" ; Times: 1
+	Query: "LJW 109" ; Times: 2
+	Query: "null" ; Times: 122
+	Query: "catalognumber:15351 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:5454 institutioncode:BYU" ; Times: 2
+	Query: "Bothrops institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "catalognumber:2760 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:39679 institutioncode:BYU" ; Times: 3
+	Query: "Crotalus aquilus" ; Times: 2
+	Query: "Porthidium institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:42849 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:16537 institutioncode:BYU" ; Times: 2
+	Query: "crotalus willardi" ; Times: 21
+	Query: "LJW 0446" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:naja country:&#34;nigeria&#34;" ; Times: 1
+	Query: "catalognumber:15678 institutioncode:BYU" ; Times: 2
+	Query: "43649" ; Times: 1
+	Query: "catalognumber:31187 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:41406 institutioncode:BYU" ; Times: 4
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:48933 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:30781 institutioncode:BYU" ; Times: 3
+	Query: "catalognumber:37677 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:42870 institutioncode:BYU" ; Times: 3
+	Query: "iNSCRIPTION" ; Times: 2
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sauromalus locality:Isla Danzante" ; Times: 2
+	Query: "micruroides" ; Times: 1
+	Query: "specificepithet:obesus genus:Sauromalus sex:male OR female" ; Times: 1
+	Query: "catalognumber:19133 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:16535 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:364 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:37678 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:37672 institutioncode:BYU" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 15
+	Query: "LJW 113" ; Times: 2
+	Query: "woodin specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "catalognumber:45928 institutioncode:BYU" ; Times: 2
+	Query: "genus:Elaphe OR Pantherophis sex:male OR female" ; Times: 2
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 4
+	Query: "catalognumber:30789 institutioncode:BYU" ; Times: 4
+	Query: "genus:anolis" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "catalognumber:12525 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:41405 institutioncode:BYU" ; Times: 2
+	Query: "LJW 205" ; Times: 1
+	Query: "catalognumber:49083 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:sexlineatus genus:Cnemidophorus sex:male OR female" ; Times: 1
+	Query: "bothriechis institutioncode:BYU" ; Times: 1
+	Query: "crotalus atrox" ; Times: 62
+	Query: "catalognumber:42699 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:4973 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:37669 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:4908 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:wigginsi genus:Xantusia" ; Times: 1
+	Query: "genus:Sauromalus locality:Isla Danzante institutioncode:BYU" ; Times: 2
+	Query: "13171" ; Times: 1
+	Query: "catalognumber:9059 institutioncode:BYU" ; Times: 3
+	Query: "catalognumber:16747 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Crotalus angelensis" ; Times: 1
+	Query: "catalognumber:21266 institutioncode:BYU" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 161 (out of 1416 download events in this period)
+Total number of records downloaded: 16587
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 52
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 42
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 17
+	Country: Colombia ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 5
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-19 ; Times: 5
+	Date: 2018-08-16 ; Times: 5
+	Date: 2018-08-09 ; Times: 21
+	Date: 2018-08-15 ; Times: 5
+	Date: 2018-08-10 ; Times: 15
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-08 ; Times: 7
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-26 ; Times: 5
+	Date: 2018-08-25 ; Times: 9
+	Date: 2018-08-24 ; Times: 21
+	Date: 2018-08-23 ; Times: 6
+	Date: 2018-08-22 ; Times: 9
+	Date: 2018-08-21 ; Times: 8
+	Date: 2018-08-20 ; Times: 7
+	Date: 2018-08-05 ; Times: 4
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-01 ; Times: 5
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pricei genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Bolitoglossa" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "genus:Sonora sex:male OR female" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "rhamphiophis" ; Times: 1
+	Query: "genus:Gopherus sex:male OR female" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 2
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "specificepithet:palmipes genus:Rana" ; Times: 1
+	Query: "specificepithet:andreae genus:Adenomera" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Sceloporus torquatus torquatus" ; Times: 1
+	Query: "Sistrurus tergeminus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "trimeresurus institutioncode:BYU" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "family:Bufonidae continent:Africa AND (NOT bufo)" ; Times: 1
+	Query: "Crotalus catalinensis" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "genus:Coluber OR Masticophis sex:male OR female" ; Times: 1
+	Query: "phyllodactylus unctus" ; Times: 1
+	Query: "genus:Leiolopisma OR Scincella sex:male OR female" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "genus:Pantherophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "brazos county agkistrodon" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma sex:male OR female" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 2
+	Query: "Sceloporus spinosus spinosus" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "specificepithet:altamazonica genus:Bolitoglossa" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "sistrurus" ; Times: 1
+	Query: "genus:Liotyphlops" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 2
+	Query: "specificepithet:mystaceus genus:Leptodactylus" ; Times: 1
+	Query: "sistrurus miliarius texas" ; Times: 2
+	Query: "Plestiodon tetragrammus tetragrammus" ; Times: 1
+	Query: "specificepithet:bassleri genus:Chiasmocleis" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "genus:Anolis year&gt;1900 year&lt;2018" ; Times: 2
+	Query: "order:Anura" ; Times: 1
+	Query: "order:Squamata" ; Times: 2
+	Query: "genus:Opheodrys OR Liochlorophis sex:male OR female" ; Times: 1
+	Query: "specificepithet:knudseni genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Sceloporus jalapae" ; Times: 1
+	Query: "specificepithet:wilderae genus:eurycea" ; Times: 1
+	Query: "specificepithet:(lemurinus OR bicaorum OR utilensis) genus:(Anolis OR Norops) year&gt;1900 year&lt;2018" ; Times: 1
+	Query: "specificepithet:cirrigera genus:eurycea" ; Times: 1
+	Query: "genus:Cnemidophorus OR Aspidoscelis sex:male OR female" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Sceloporus bicanthalis" ; Times: 1
+	Query: "specificepithet:rhodomystax genus:Leptodactylus" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Bothrops moojeni" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "specificepithet:perezi genus:Edalorhina" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Sceloporus variabilis variabilis" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "vntype:specimen order:Squamata" ; Times: 1
+	Query: "proceratophrys" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "oaxaca and amphibia" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "crotalus enyo" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Crotalus culminatus" ; Times: 1
+	Query: "genus:Eumeces OR Plestiodon sex:male OR female" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "country:&#34;Costa Rica&#34; recordedby:Taylor" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "specificepithet:ater genus:Sauromalus locality:Isla" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: "genus:Sauromalus sex:male OR female" ; Times: 2
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "tropidoclonion" ; Times: 1
+	Query: "crotalus" ; Times: 2
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "sceloporus hunsakeri" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "Anolis uniformis" ; Times: 1
+	Query: "specificepithet:hylaedactyla genus:Adenomera" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "specificepithet:tomopterna genus:Phyllomedusa" ; Times: 1
+	Query: "Crotalus aquilus" ; Times: 2
+	Query: "genus:Scincella sex:male OR female" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Sistrurus miliarius texas" ; Times: 2
+	Query: "specificepithet:wagneri genus:Leptodactylus" ; Times: 1
+	Query: "Plestiodon brevirostris brevirostris" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "boiga (Solomon islands)" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "specificepithet:cabrerai genus:Osteocephalus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "telmatobius marmoratus" ; Times: 1
+	Query: "genus:Lichanura OR Charina sex:male OR female" ; Times: 1
+	Query: "order:Caudata" ; Times: 1
+	Query: "genus:Clelia" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Sceloporus formosus formosus" ; Times: 1
+	Query: "Reptilia Jalisco" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "Crotalus angelensis" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+
+
+End of report.
