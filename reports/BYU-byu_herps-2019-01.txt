@@ -1,0 +1,517 @@
+Report for Institution Code BYU, Resource byu_herps
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 486
+Number of records retrieved in searches: 4953
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 241
+	Country: Bonaire ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: India ; Times: 9
+	Country: Saint Kitts and Nevis ; Times: 2
+	Country: Cambodia ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 19
+	Country: Sweden ; Times: 4
+	Country: Netherlands ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 8
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 154
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 3
+	Date: 2019-01-23 ; Times: 8
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-18 ; Times: 7
+	Date: 2019-01-19 ; Times: 9
+	Date: 2019-01-14 ; Times: 54
+	Date: 2019-01-15 ; Times: 50
+	Date: 2019-01-30 ; Times: 5
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 59
+	Date: 2019-01-11 ; Times: 37
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-13 ; Times: 11
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-29 ; Times: 5
+	Date: 2019-01-28 ; Times: 12
+	Date: 2019-01-01 ; Times: 4
+	Date: 2019-01-07 ; Times: 10
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 15
+	Date: 2019-01-04 ; Times: 8
+	Date: 2019-01-21 ; Times: 9
+	Date: 2019-01-20 ; Times: 16
+	Date: 2019-01-09 ; Times: 71
+	Date: 2019-01-22 ; Times: 8
+	Date: 2019-01-25 ; Times: 7
+	Date: 2019-01-24 ; Times: 15
+	Date: 2019-01-27 ; Times: 4
+	Date: 2019-01-08 ; Times: 7
+	Date: 2019-01-16 ; Times: 42
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ottley genus:Trimorphodon locality:Los Angeles" ; Times: 1
+	Query: "Byu" ; Times: 1
+	Query: "country:&#34;united states&#34; year &gt;= 2015 year &lt;= 2018 institutioncode:BYU" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:Cedros" ; Times: 1
+	Query: "specificepithet:taeniatus genus:masticophis country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; (ottley)" ; Times: 1
+	Query: "phrynosomatidae" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus locality:alamos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:marcos (ottley)" ; Times: 1
+	Query: "Phyllodactylus tuberculosus" ; Times: 4
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Texas&#34;" ; Times: 6
+	Query: "Vernalis wisconsin" ; Times: 4
+	Query: "family:colubridae locality:alamos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Sauromalus locality:Isla Monserrate country:&#34;Mexico&#34; (ottley)" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:isla cedros" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:pituophis locality:11.7 stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "genus:phyllorhynchus stateprovince:&#34;California&#34; (1929)" ; Times: 1
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "nerodia" ; Times: 1
+	Query: "class:amphibia county:&#34;clatsop&#34; stateprovince:&#34;oregon&#34;" ; Times: 4
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus stateprovince:&#34;Baja california sur&#34; country:&#34;Mexico&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:35.5 (ottley)" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:obesus genus:Sauromalus locality:Catavina country:&#34;Mexico&#34; institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:los angeles (ottley)" ; Times: 1
+	Query: "genus:Arizona locality:san Felipe country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "genus:desmognathus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "alvarez del toro miguel" ; Times: 2
+	Query: "genus:Arizona locality:felipe country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "Reptilia Arkansas nevada" ; Times: 1
+	Query: "Ottley genus:hypsiglena country:&#34;mexico&#34; year &lt;= 1979" ; Times: 1
+	Query: "genus:Chilomeniscus locality:El arco country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "genus:Gopherus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "31794" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis locality:ortiz country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:4.8" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:san felipe" ; Times: 1
+	Query: "Mlbm" ; Times: 1
+	Query: "genus:coluber locality:8" ; Times: 1
+	Query: "catalognumber:33677 institutioncode:BYU" ; Times: 1
+	Query: "country:&#34;united states&#34; year &gt;= 2010 year &lt;= 2018 institutioncode:BYU" ; Times: 2
+	Query: "ottley genus:lampropeltis locality:angeles country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:rhyacotriton county:&#34;clatsop&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Phrynosoma locality:38.9" ; Times: 2
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:22.6 (ottley)" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis family:colubridae locality:San country:&#34;Mexico&#34;" ; Times: 1
+	Query: "geoemyda spengleri" ; Times: 1
+	Query: "genus:thecadactylus continent:North America" ; Times: 1
+	Query: "rhadinaea kinkelini" ; Times: 1
+	Query: "country:&#34;Mexico&#34; catalognumber:34541 institutioncode:BYU" ; Times: 1
+	Query: "Reptilia coconino rhinocheilus" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus locality:san ignacio (ottley)" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Opheodrys hastissue:1" ; Times: 1
+	Query: "Deirochelys" ; Times: 2
+	Query: "rhineura" ; Times: 1
+	Query: "genus:Dipsosaurus locality:Bahia de Los Angeles" ; Times: 1
+	Query: "family:phrynosomatidae locality:Santa Inez country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Reptilia coconino sceloporus graciosus" ; Times: 2
+	Query: "specificepithet:penatulus genus:thorius" ; Times: 2
+	Query: "order:anura (cochranae)" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx institutioncode:BYU" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Jim Hogg&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:coronatum genus:phrynosoma locality:el arco country:&#34;Mexico&#34; (ottley)" ; Times: 1
+	Query: "genus:Chilomeniscus locality:8.9 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:juncalito" ; Times: 1
+	Query: "Lampropeltis abnorma" ; Times: 1
+	Query: "Reptilia mohave rhinocheilus" ; Times: 1
+	Query: "specificepithet:onca genus:Rana stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:crotalus (Oaxaco OR Veracruz OR Chiapas OR Puebla) year &gt;= 1975" ; Times: 1
+	Query: "reptilia arkansas grant" ; Times: 1
+	Query: "ottley genus:Chionactis locality:felipe country:&#34;mexico&#34;" ; Times: 1
+	Query: "year &gt;= 2010 year &lt;= 2018 institutioncode:BYU" ; Times: 1
+	Query: "Eurycea nana" ; Times: 2
+	Query: "specificepithet:draconoides genus:Callisaurus locality:ortiz (ottley)" ; Times: 1
+	Query: "specificepithet:fuscus genus:Desmognathus" ; Times: 1
+	Query: "Reptilia Wisconsin dane" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis family:colubridae locality:marcos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Callisaurus locality:san ignacio country:&#34;Mexico&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:airport" ; Times: 1
+	Query: "genus:Chilomeniscus locality:38.4 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "genus:Lipinia" ; Times: 2
+	Query: "genus:arizona locality:Guerrero" ; Times: 1
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:BYU" ; Times: 3
+	Query: "ottley genus:Trimorphodon locality:Navojoa" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:Isla San Marcos" ; Times: 1
+	Query: "pyromelana greenlee" ; Times: 1
+	Query: "specificepithet:obesus genus:Sauromalus locality:Bahia de Los Angeles country:&#34;Mexico&#34; institutioncode:BYU" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "genus:Sauromalus locality:Bahia de los Angeles country:&#34;Mexico&#34; catalognumber:34473 institutioncode:BYU" ; Times: 1
+	Query: "Monte Castelo" ; Times: 1
+	Query: "rhamphiophis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Cryptobranchus bishopi" ; Times: 10
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Jim Hogg&#34; stateprovince:&#34;Texas&#34; institutioncode:BYU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:Arroyo Taneria" ; Times: 1
+	Query: "genus:arizona family:colubridae locality:9 country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;california&#34; (1982)" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:pituophis stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "year &gt;= 2007 year &lt;= 2018 institutioncode:BYU" ; Times: 1
+	Query: "genus:Arizona locality:13.6 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "Chionactis occipitalis stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "ottley genus:Chionactis locality:20.5 country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:isla cedros country:&#34;Mexico&#34; (ottley)" ; Times: 1
+	Query: "hemidactylus turcicus mexico" ; Times: 1
+	Query: "arizona triangulum" ; Times: 1
+	Query: "Atractaspis congica" ; Times: 4
+	Query: "specificepithet:neuwiedii genus:Pseudoboa AND (NOT MEXICO)" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:angeles" ; Times: 1
+	Query: "country:&#34;Mexico&#34; catalognumber:34473 institutioncode:BYU" ; Times: 1
+	Query: "genus:Arizona locality:santa inez country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "Graptemys oculifera" ; Times: 1
+	Query: "48586" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Chilomeniscus locality:25.2 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx locality:san ignacio" ; Times: 1
+	Query: "mohave punctatus" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:ortiz" ; Times: 1
+	Query: "genus:Sauromalus locality:Isla San Marcos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Sauromalus locality:isla smith country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:woodhousei genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus locality:El (ottley)" ; Times: 1
+	Query: "Reptilia Wisconsin rock" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "genus:coleonyx locality:Los Angeles" ; Times: 1
+	Query: "genus:Arizona locality:el arco country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "Rhinatrema" ; Times: 4
+	Query: "genus:sceloporus locality:el triunfo" ; Times: 1
+	Query: "UTA 16353" ; Times: 1
+	Query: "genus:Chilomeniscus locality:39 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "8054" ; Times: 1
+	Query: "vntype:specimen country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sauromalus locality:Isla San Marcos country:&#34;Mexico&#34; (ottley)" ; Times: 1
+	Query: "genus:Crotaphytus locality:el arco" ; Times: 1
+	Query: "genus:coleonyx catalognumber:34501 (ottley) institutioncode:BYU" ; Times: 1
+	Query: "country:&#34;united states&#34; year &gt;= 2014 year &lt;= 2014 institutioncode:BYU" ; Times: 1
+	Query: "genus:Gambelia locality:cardon (ottley)" ; Times: 1
+	Query: "genus:Trimorphodon locality:catavina" ; Times: 5
+	Query: "boiga irregularis" ; Times: 1
+	Query: "genus:Rhinatrema" ; Times: 1
+	Query: "genus:Hypsiglena family:colubridae locality:marcos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "genus:Sauromalus locality:Isla Santa Catalina" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH)" ; Times: 1
+	Query: "9628" ; Times: 1
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "1950 genus:Sauromalus" ; Times: 1
+	Query: "genus:Phrynosoma locality:Guerrero Negro" ; Times: 1
+	Query: "genus:Phrynosoma locality:catavina" ; Times: 2
+	Query: "locality:Bahia de los Angeles country:&#34;Mexico&#34; catalognumber:34473 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:retiformis genus:bufo" ; Times: 1
+	Query: "Brazos County" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:El Arco" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:pituophis locality:el arco" ; Times: 1
+	Query: "Guerrero crotalus" ; Times: 2
+	Query: "specificepithet:draconoides genus:Callisaurus locality:loreto" ; Times: 1
+	Query: "genus:Arizona locality:9.5 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "rhadinaea lachrymans" ; Times: 1
+	Query: "Hyperolius bolifambae" ; Times: 2
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:la paz country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:crotalus (Oaxaco OR Veracruz OR Chiapas OR Puebla)" ; Times: 1
+	Query: "genus:ficimia stateprovince:&#34;Sonora&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:los angeles country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis locality:34.5 country:&#34;mexico&#34; year &gt;= 1978 month &gt;= 5" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 2
+	Query: "genus:Arizona locality:9 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:armillata genus:Tantilla country:&#34;Honduras&#34;" ; Times: 3
+	Query: "specificepithet:draconoides genus:Callisaurus locality:el arco" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:isla cedros country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Arizona country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "Emydoidea Wisconsin" ; Times: 2
+	Query: "genus:Sauromalus locality:Isla Danzante" ; Times: 2
+	Query: "Sonora aemula sonora" ; Times: 1
+	Query: "Reptilia Wisconsin jefferson" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx country:&#34;Mexico&#34; (ottley)" ; Times: 2
+	Query: "ottley genus:Hypsiglena locality:danzante" ; Times: 1
+	Query: "genus:Chilomeniscus locality:4.8 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "ottley genus:Trimorphodon locality:santa rosalia" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "genus:Trimorphodon locality:alamos" ; Times: 3
+	Query: "specificepithet:sierrae genus:xantusia" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:9 (ottley)" ; Times: 1
+	Query: "sauromalus coconino" ; Times: 1
+	Query: "genus:Dipsosaurus" ; Times: 1
+	Query: "genus:coleonyx locality:isla san marcos (ottley)" ; Times: 1
+	Query: "genus:phyllorhynchus (1929)" ; Times: 2
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:san ignacio (ottley)" ; Times: 2
+	Query: "ottley genus:Trimorphodon locality:San Ignacio" ; Times: 1
+	Query: "lacertoides" ; Times: 1
+	Query: "genus:Hypsiglena locality:san marcos" ; Times: 1
+	Query: "genus:Chilomeniscus locality:constitucion country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus locality:Bahia de Los Angeles" ; Times: 2
+	Query: "genus:Eurycea county:&#34;Williamson&#34; stateprovince:&#34;Texas&#34; year &gt;= 1900 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus (ottley)" ; Times: 1
+	Query: "genus:Leptodeira stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "genus:masticophis" ; Times: 1
+	Query: "genus:Naja institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:la paz country:&#34;Mexico&#34; (ottley)" ; Times: 1
+	Query: "mantipus order:anura" ; Times: 1
+	Query: "genus:arizona family:colubridae locality:Inez country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "genus:Arizona locality:2.5 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "genus:Hypsiglena locality:67" ; Times: 1
+	Query: "42855" ; Times: 1
+	Query: "country:&#34;united states&#34; year &gt;= 2016 year &lt;= 2018 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:obesus genus:Sauromalus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34; institutioncode:BYU" ; Times: 1
+	Query: "genus:arizona locality:el arco" ; Times: 1
+	Query: "UTA 8225" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus locality:Navojoa country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:coronatum genus:phrynosoma country:&#34;Mexico&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:el arco" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 1
+	Query: "genus:Micruroides locality:ortiz" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Goliad&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Phyllorhynchus locality:san ignacio" ; Times: 1
+	Query: "genus:Leptotyphlops country:&#34;Mexico&#34; (ottley)" ; Times: 1
+	Query: "genus:Gambelia locality:cedros (ottley)" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:santa (ottley)" ; Times: 1
+	Query: "ottley genus:Chionactis locality:20 country:&#34;mexico&#34;" ; Times: 1
+	Query: "Cnemidophorus ocellifer" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:Mulege" ; Times: 1
+	Query: "gbifdatasetid:847aa410-f762-11e1-a439-00145eb45e9a south dakota" ; Times: 1
+	Query: "genus:Phyllorhynchus locality:Isla Monserrate country:&#34;mexico&#34;" ; Times: 1
+	Query: "uma paraphygas" ; Times: 2
+	Query: "gbifdatasetid:847aa410-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "ottley genus:Chionactis locality:26 country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis AND (NOT MEXICO)" ; Times: 1
+	Query: "genus:Phyllorhynchus locality:ignacio (ottley)" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:loreto" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Williamson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:pituophis locality:ortiz" ; Times: 1
+	Query: "genus:Arizona locality:33.2 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx country:&#34;Mexico&#34; institutioncode:BYU" ; Times: 1
+	Query: "genus:Phyllorhynchus locality:San ignacio country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Dipsosaurus locality:isla san marcos (ottley)" ; Times: 1
+	Query: "genus:coleonyx (ottley) institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx locality:san felipe" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:Bahia de Los Angeles" ; Times: 1
+	Query: "genus:Chilomeniscus locality:monserrate country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "Prunus" ; Times: 1
+	Query: "Atelopus oxyrhynchus" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops country:&#34;Mexico&#34; institutioncode:BYU" ; Times: 1
+	Query: "class:reptilia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus locality:Isla San Marcos" ; Times: 2
+	Query: "specificepithet:humilis genus:Leptotyphlops country:&#34;Mexico&#34; (1978) institutioncode:BYU" ; Times: 1
+	Query: "velox Coconino" ; Times: 1
+	Query: "genus:arizona family:colubridae locality:Santa country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Sauromalus locality:Danzante" ; Times: 5
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:taneria (ottley)" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus country:&#34;Mexico&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:pituophis locality:Navojoa" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34; recordedby:Jones year &gt;= 2007 year &lt;= 2018 institutioncode:BYU" ; Times: 2
+	Query: "genus:Phrynosoma locality:Guerrero" ; Times: 1
+	Query: "genus:Rhinatrema basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Callisaurus locality:juncalito country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:variegatus genus:coleonyx locality:san Ignacio" ; Times: 1
+	Query: "class:reptilia county:&#34;washington&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:Gambelia locality:Arroyo Cardon" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "Crotaphytus mohave arizona" ; Times: 1
+	Query: "larrea tridentata" ; Times: 2
+	Query: "crotalus atrox" ; Times: 1
+	Query: "genus:Dipsosaurus locality:el arco" ; Times: 1
+	Query: "genus:Trimorphodon family:colubridae locality:marcos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:Bahia" ; Times: 1
+	Query: "thorius penatulus" ; Times: 1
+	Query: "genus:Arizona locality:san Felipe country:&#34;mexico&#34;" ; Times: 1
+	Query: "ottley genus:Chionactis locality:25.7 country:&#34;mexico&#34;" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Emydoidea blandingii wisconsin" ; Times: 1
+	Query: "panther" ; Times: 1
+	Query: "family:gekkonidae locality:Juncalito" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sauromalus locality:Isla Santa Catalina (ottley)" ; Times: 1
+	Query: "class:Reptilia locality:Ensenada stateprovince:&#34;Baja California&#34; country:&#34;México&#34; continent:América (Reptilia México)" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus locality:Agueda" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus locality:26.4" ; Times: 1
+	Query: "crotalus horridus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis locality:Mulege country:&#34;mexico&#34; year &gt;= 1978 month &gt;= 5" ; Times: 1
+	Query: "genus:naja institutioncode:BYU" ; Times: 2
+	Query: "Ottley genus:hypsiglena country:&#34;mexico&#34;" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "genus:Arizona locality:18.1 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "genus:Sauromalus locality:Bahia de Los Angeles country:&#34;Mexico&#34; institutioncode:BYU" ; Times: 1
+	Query: "hahneli" ; Times: 1
+	Query: "Crotaphytus dickersonae" ; Times: 1
+	Query: "21773" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis locality:marcos country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Dipsosaurus locality:santa catalina" ; Times: 1
+	Query: "genus:Phyllorhynchus locality:el arco (ottley)" ; Times: 1
+	Query: "Rhyacotriton kezeri" ; Times: 3
+	Query: "specificepithet:modestum genus:phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "abronia" ; Times: 2
+	Query: "specificepithet:variegatus genus:coleonyx country:&#34;Mexico&#34; (ottley) institutioncode:BYU" ; Times: 2
+	Query: "locality:Juncalito" ; Times: 1
+	Query: "teiidae" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:Arroyo Cardon" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:san felipe (ottley)" ; Times: 3
+	Query: "genus:Arizona locality:27.9 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "family:iguanidae" ; Times: 1
+	Query: "genus:Arizona locality:colonet country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "genus:thecadactylus year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:mearnsi genus:petrosaurus locality:Pedro" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 2
+	Query: "ottley genus:Hypsiglena locality:catalina" ; Times: 1
+	Query: "specificepithet:malachiticus genus:Sceloporus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:coleonyx locality:Bahia de Los Angeles" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis country:&#34;mexico&#34; year &gt;= 1978 month &gt;= 5" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:san marcos" ; Times: 1
+	Query: "genus:Sauromalus locality:smith country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:pituophis locality:san ignacio" ; Times: 1
+	Query: "ottley genus:lampropeltis country:&#34;mexico&#34;" ; Times: 1
+	Query: "ottley genus:Hypsiglena locality:67" ; Times: 1
+	Query: "ottley genus:Trimorphodon locality:el rosario" ; Times: 1
+	Query: "byu reptilia coconino" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Chilomeniscus country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "genus:coleonyx locality:isla san marcos" ; Times: 1
+	Query: "dasypeltis" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:arizona locality:Guerrero Negro country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis locality:marcos country:&#34;mexico&#34; year &gt;= 1978 month &gt;= 5" ; Times: 2
+	Query: "Atelopus barbotini" ; Times: 1
+	Query: "aspidoscelis apache tigris arizona" ; Times: 1
+	Query: "genus:lampropeltis catalognumber:34522" ; Times: 3
+	Query: "Reptilia arkansas nevada" ; Times: 1
+	Query: "Deirochelys texas" ; Times: 8
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:el arco (ottley)" ; Times: 1
+	Query: "Atractaspis dahomeyensis" ; Times: 1
+	Query: "vntype:specimen genus:pituophis (ottley)" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34; year &gt;= 2007 year &lt;= 2018 institutioncode:BYU" ; Times: 2
+	Query: "multivirgatus coconino" ; Times: 2
+	Query: "Uma inornata" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops locality:Isla Danzante country:&#34;Mexico&#34; institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:33655 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:flagellum genus:masticophis country:&#34;mexico&#34; year &gt;= 1978" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "specificepithet:switaki genus:coleonyx" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 3
+	Query: "specificepithet:variegatus genus:coleonyx locality:isla cedros" ; Times: 1
+	Query: "genus:Phrynosoma locality:guerrero Negro" ; Times: 1
+	Query: "genus:Arizona locality:ignacio country:&#34;mexico&#34; (ottley)" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH) institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:ignacio (ottley)" ; Times: 2
+	Query: "genus:Arizona locality:16.5 country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "Atelopus flavescens" ; Times: 2
+	Query: "Calliophis bivirgata" ; Times: 2
+	Query: "vntype:specimen specificepithet:naja genus:Naja basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Chilomeniscus locality:la paz country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "Atelopus carbonerensis" ; Times: 3
+	Query: "specificepithet:browni genus:Phyllorhynchus country:&#34;mexico&#34; (ottley)" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx locality:san ignacio" ; Times: 1
+	Query: "genus:phyllorhynchus stateprovince:&#34;California&#34; (33728)" ; Times: 1
+	Query: "specificepithet:elegans genus:arizona country:&#34;Mexico&#34; year &gt;= 1982 year &lt;= 1982" ; Times: 3
+	Query: "family:colubridae locality:viscaino country:&#34;Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 962 download events in this period)
+Total number of records downloaded: 699
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 21
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-19 ; Times: 6
+	Date: 2019-01-04 ; Times: 3
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 5
+	Date: 2019-01-10 ; Times: 4
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-21 ; Times: 4
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "Gymnophiona" ; Times: 1
+	Query: "eurycea neotenes" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "siren intermedia" ; Times: 1
+	Query: "gbifdatasetid:847aa410-f762-11e1-a439-00145eb45e9a south dakota" ; Times: 1
+	Query: "class:amphibia" ; Times: 1
+	Query: "Lampropeltis abnorma" ; Times: 1
+	Query: "genus:coleonyx locality:isla san marcos (ottley)" ; Times: 1
+	Query: "class:reptilia county:&#34;tompkins&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "velox Coconino" ; Times: 2
+	Query: "ambystoma rosaceum" ; Times: 1
+	Query: "class:Amphibia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+	Query: "specificepithet:conanti genus:Desmognathus" ; Times: 1
+	Query: "genus:Hypsiglena family:colubridae locality:marcos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:wehrlei genus:Plethodon" ; Times: 1
+	Query: "Bipes biporus" ; Times: 5
+	Query: "Hemiphractidae" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "Urosaurus nigricaudus" ; Times: 1
+	Query: "specificepithet:malachiticus genus:Sceloporus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:chlorobryonis genus:Plethodon" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:richmondi genus:Plethodon" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon" ; Times: 1
+	Query: "bipes biporus" ; Times: 2
+	Query: "urosaurus nigricaudus" ; Times: 1
+	Query: "specificepithet:bislineata genus:Eurycea" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "specificepithet:nigricaudus genus:Urosaurus country:&#34;México&#34;" ; Times: 1
+
+
+End of report.
