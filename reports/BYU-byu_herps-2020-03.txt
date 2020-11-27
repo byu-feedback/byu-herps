@@ -1,0 +1,528 @@
+Report for Institution Code BYU, Resource byu_herps
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 489
+Number of records retrieved in searches: 1791
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 422
+	Country: Australia ; Times: 7
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 4
+	Country: Poland ; Times: 1
+	Country: Japan ; Times: 4
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 3
+	Country: Croatia ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ukraine ; Times: 3
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 29
+	Date: 2020-03-30 ; Times: 7
+	Date: 2020-03-31 ; Times: 48
+	Date: 2020-03-02 ; Times: 7
+	Date: 2020-03-18 ; Times: 14
+	Date: 2020-03-19 ; Times: 11
+	Date: 2020-03-16 ; Times: 49
+	Date: 2020-03-23 ; Times: 18
+	Date: 2020-03-14 ; Times: 6
+	Date: 2020-03-15 ; Times: 8
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 10
+	Date: 2020-03-10 ; Times: 16
+	Date: 2020-03-08 ; Times: 3
+	Date: 2020-03-17 ; Times: 80
+	Date: 2020-03-06 ; Times: 13
+	Date: 2020-03-27 ; Times: 14
+	Date: 2020-03-26 ; Times: 7
+	Date: 2020-03-25 ; Times: 13
+	Date: 2020-03-24 ; Times: 17
+	Date: 2020-03-09 ; Times: 33
+	Date: 2020-03-22 ; Times: 8
+	Date: 2020-03-21 ; Times: 7
+	Date: 2020-03-20 ; Times: 8
+	Date: 2020-03-05 ; Times: 6
+	Date: 2020-03-04 ; Times: 9
+	Date: 2020-03-07 ; Times: 2
+	Date: 2020-03-11 ; Times: 12
+	Date: 2020-03-01 ; Times: 10
+	Date: 2020-03-29 ; Times: 11
+	Date: 2020-03-28 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "38031" ; Times: 1
+	Query: "Hyla punctata" ; Times: 1
+	Query: "catalognumber:17943 institutioncode:BYU" ; Times: 2
+	Query: "&#34;Rancho Mezquital&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "36879" ; Times: 2
+	Query: "genus:siren stateprovince:&#34;texAS&#34; year &gt;= 1960" ; Times: 1
+	Query: "catalognumber:17377 institutioncode:BYU" ; Times: 2
+	Query: "genus:Coluber" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "specificepithet:platyrhinos county:&#34;riverside&#34;" ; Times: 2
+	Query: "genus:crotalus county:&#34;yuma&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "catalognumber:2993 institutioncode:BYU" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "&#34;Changena Camp&#34;" ; Times: 1
+	Query: "catalognumber:17372 institutioncode:BYU" ; Times: 2
+	Query: "chytrid fungus" ; Times: 2
+	Query: "family:Scaphiopodidae stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "catalognumber:30103 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:Mitchellii genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mappable:1 year&gt;=1979 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "specificepithet:lepidus genus:crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "Chiropterotriton chiropterus" ; Times: 1
+	Query: "Farancia abacura Georgia" ; Times: 1
+	Query: "braminus country:&#34;mexico&#34;" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "distance(location,geopoint(-46.82328986404725,-72.1168019844226))&lt;100000" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "anolis" ; Times: 1
+	Query: "scincus scincus" ; Times: 1
+	Query: "catalognumber:23935 institutioncode:BYU" ; Times: 2
+	Query: "genus:Notophthalmus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Naja pallida" ; Times: 1
+	Query: "specificepithet:nitidus stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "amphibia Kentucky livingston" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "catalognumber:31426 institutioncode:BYU" ; Times: 2
+	Query: "crotalus" ; Times: 3
+	Query: "Rena" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "catalognumber:17454 institutioncode:BYU" ; Times: 2
+	Query: "Boana punctata" ; Times: 3
+	Query: "Vipera berus" ; Times: 1
+	Query: "catalognumber:30581 institutioncode:BYU" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "specificepithet:stephensi genus:Crotalus" ; Times: 2
+	Query: "specificepithet:bottae genus:charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pantherophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Utah&#34; institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:40611 institutioncode:BYU" ; Times: 1
+	Query: "banjarana" ; Times: 4
+	Query: "catalognumber:23687 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Nye&#34; institutioncode:BYU" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Crotalus molossus texas" ; Times: 2
+	Query: "microlophus peruvianus" ; Times: 3
+	Query: "genus:Lampropeltis stateprovince:&#34;Nebraska&#34; institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:43255 institutioncode:BYU" ; Times: 2
+	Query: "Indian Xantusia" ; Times: 1
+	Query: "catalognumber:23631 institutioncode:BYU" ; Times: 2
+	Query: "Crotaphytus bicinctores" ; Times: 2
+	Query: "specificepithet:wislizenii genus:Gambelia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Seminatrix county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "catalognumber:30583 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:31143 institutioncode:BYU" ; Times: 2
+	Query: "50678" ; Times: 1
+	Query: "catalognumber:30584 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:17380 institutioncode:BYU" ; Times: 2
+	Query: "genus:Sonora" ; Times: 1
+	Query: "catalognumber:31427 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:oculifera genus:Graptemys year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "genus:Coluber class:Reptilia stateprovince:&#34;Washington&#34; AND (NOT PDBD)" ; Times: 1
+	Query: "catalognumber:30100 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:17382 institutioncode:BYU" ; Times: 2
+	Query: "Atractaspis congica" ; Times: 2
+	Query: "catalognumber:43263 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:23857 institutioncode:BYU" ; Times: 2
+	Query: "genus:Astylosternus specificepithet:rheophilus" ; Times: 4
+	Query: "Deirochelys reticularia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sceloporus zosteromus" ; Times: 1
+	Query: "Leptodeira splendida" ; Times: 2
+	Query: "Sceloporus torquatus melanogaster" ; Times: 1
+	Query: "genus:Agkistrodon" ; Times: 1
+	Query: "specificepithet:braminus stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "genus:crotalus county:&#34;yuma&#34;" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "catalognumber:23916 institutioncode:BYU" ; Times: 2
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Wyoming&#34; AND (NOT PDBD)" ; Times: 1
+	Query: "specificepithet:albagula genus:Plethodon" ; Times: 1
+	Query: "catalognumber:17385 institutioncode:BYU" ; Times: 2
+	Query: "genus:phyllodactylus stateprovince:&#34;california&#34; continent:North America institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:18784 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:guttata genus:Pantherophis" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "&#34;Bat cave&#34; county:&#34;Rutherford&#34; stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "Plw" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Nye&#34; recordedby:Allred catalognumber:17439 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:braminus stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "catalognumber:18813 institutioncode:BYU" ; Times: 2
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "catalognumber:17456 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Brazil&#34; institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Nye&#34; recordedby:Allred catalognumber:17438 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "catalognumber:23895 institutioncode:BYU" ; Times: 2
+	Query: "class:Reptilia county:&#34;Yakima&#34; stateprovince:&#34;Washington&#34; AND (NOT PDBD)" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;los angeles&#34;" ; Times: 2
+	Query: "catalognumber:23844 institutioncode:BYU" ; Times: 1
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Plestiodon callicephalus" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "Plwj" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Desmognathus county:&#34;Cocke&#34;" ; Times: 1
+	Query: "stateprovince:&#34;utah&#34; (crotalus)" ; Times: 2
+	Query: "Naja mossambica" ; Times: 2
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 3
+	Query: "52484" ; Times: 1
+	Query: "15919 institutioncode:BYU" ; Times: 2
+	Query: "Indian vigilis" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "catalognumber:23908 institutioncode:BYU" ; Times: 2
+	Query: "a&amp;m" ; Times: 1
+	Query: "catalognumber:32573 institutioncode:BYU" ; Times: 1
+	Query: "class:Reptilia county:&#34;York&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Vipera country:&#34;Lebanon&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:viridescens" ; Times: 1
+	Query: "catalognumber:23841 institutioncode:BYU" ; Times: 1
+	Query: "trimorphodon tau" ; Times: 1
+	Query: "specificepithet:platyrhinos county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Colorado&#34; institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "catalognumber:17384 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:31790 institutioncode:BYU" ; Times: 4
+	Query: "catalognumber:23934 institutioncode:BYU" ; Times: 2
+	Query: "37120" ; Times: 1
+	Query: "catalognumber:17452 institutioncode:BYU" ; Times: 2
+	Query: "family:Salamandridae county:&#34;Rockland&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Nye&#34; year &gt;= 1969 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:30117 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:17371 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:17378 institutioncode:BYU" ; Times: 2
+	Query: "Coleodactylus amazonicus" ; Times: 2
+	Query: "serpentes" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "(49096)" ; Times: 2
+	Query: "catalognumber:17388 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:holbrooki genus:Lampropeltis" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "catalognumber:30585 institutioncode:BYU" ; Times: 2
+	Query: "genus:Phrynosoma county:&#34;Nye&#34; recordedby:Allred catalognumber:17443 institutioncode:BYU" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Nye&#34; recordedby:Allred catalognumber:17437 institutioncode:BYU" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "catalognumber:17379 institutioncode:BYU" ; Times: 2
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "byu 13877" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;New Mexico&#34; institutioncode:BYU" ; Times: 1
+	Query: "Naja samarensis" ; Times: 1
+	Query: "genus:Buergeria hastissue:1" ; Times: 2
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "specificepithet:graciosus genus:sceloporus county:&#34;riverside&#34;" ; Times: 1
+	Query: "catalognumber:23961 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:bilineatus genus:Masticophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Yakima&#34; stateprovince:&#34;Washington&#34; AND (NOT PDBD)" ; Times: 1
+	Query: "specificepithet:splendida genus:Lampropeltis" ; Times: 1
+	Query: "&#34;gastrotheca peruana&#34;" ; Times: 2
+	Query: "catalognumber:18780 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:nebularis family:viperidae class:reptilia" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Nye&#34; recordedby:Allred catalognumber:17442 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:18781 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:17376 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:31791 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:obsoleta genus:Pantherophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "catalognumber:23688 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "shinisaurus" ; Times: 1
+	Query: "catalognumber:30450 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:21859 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:18782 institutioncode:BYU" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Rena humilis stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "catalognumber:23685 institutioncode:BYU" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "specificepithet:ocellifer genus:cnemidophorus" ; Times: 2
+	Query: "Sistrurus catenatus texas" ; Times: 3
+	Query: "BYU 20755" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "ANOLIS CAROLINENSIS" ; Times: 1
+	Query: "catalognumber:23622 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:coronatum county:&#34;san diego&#34;" ; Times: 2
+	Query: "catalognumber:36922 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "catalognumber:17383 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:23868 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "specificepithet:coerulea genus:Elgaria county:&#34;Monterey&#34;" ; Times: 1
+	Query: "hemidactylium wisconsin" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "Coleonyx switaki" ; Times: 1
+	Query: "catalognumber:17446 institutioncode:BYU" ; Times: 2
+	Query: "uta" ; Times: 1
+	Query: "LAcerta media" ; Times: 1
+	Query: "catalognumber:17381 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:3092 year &gt;= 1969 institutioncode:BYU" ; Times: 1
+	Query: "hyla" ; Times: 3
+	Query: "(49093)" ; Times: 2
+	Query: "catalognumber:23964 institutioncode:BYU" ; Times: 2
+	Query: "Naja atra" ; Times: 1
+	Query: "montanus Maryland" ; Times: 4
+	Query: "catalognumber:30556 institutioncode:BYU" ; Times: 2
+	Query: "13619" ; Times: 2
+	Query: "52022" ; Times: 1
+	Query: "catalognumber:40612 institutioncode:BYU" ; Times: 2
+	Query: "chytrid" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Masticophis" ; Times: 2
+	Query: "Aspidelaps lubricus" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Nye&#34; recordedby:Allred catalognumber:17436 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:31792 institutioncode:BYU" ; Times: 2
+	Query: "family:Plethodontidae county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "hyla bistincta" ; Times: 2
+	Query: "order:Caudata county:&#34;Rockland&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "catalognumber:17373 institutioncode:BYU" ; Times: 2
+	Query: "distance(location,geopoint(-46.7139393930966,-72.14180669037904))&lt;100000" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "catalognumber:23845 institutioncode:BYU" ; Times: 3
+	Query: "specificepithet:harteri" ; Times: 1
+	Query: "catalognumber:17374 institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos county:&#34;san diego&#34;" ; Times: 1
+	Query: "stateprovince:&#34;utah&#34; (heloderma)" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "catalognumber:30564 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:17370 institutioncode:BYU" ; Times: 2
+	Query: "distance(location,geopoint(-46.85783013245297,-72.1106226058491))&lt;100000" ; Times: 1
+	Query: "catalognumber:32572 institutioncode:BYU" ; Times: 3
+	Query: "catalognumber:17455 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:17458 institutioncode:BYU" ; Times: 2
+	Query: "genus:hyla" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "distance(location,geopoint(-46.78174480991596,-72.23717652560595))&lt;100000" ; Times: 1
+	Query: "genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:18987 institutioncode:BYU" ; Times: 2
+	Query: "13715" ; Times: 2
+	Query: "catalognumber:17375 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:30582 institutioncode:BYU" ; Times: 2
+	Query: "Sistrurus miliarius texas" ; Times: 2
+	Query: "catalognumber:18814 institutioncode:BYU" ; Times: 2
+	Query: "Rancho Mezquital country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Anolis equestris" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "catalognumber:18785 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:areolata stateprovince:&#34;oklahoma&#34;" ; Times: 3
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "catalognumber:30108 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:17457 institutioncode:BYU" ; Times: 2
+	Query: "distance(location,geopoint(-46.813852391189464,-72.02685413199619))&lt;100000" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 2
+	Query: "Anolis fuscoauratus" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mzfc" ; Times: 1
+	Query: "catalognumber:18783 institutioncode:BYU" ; Times: 2
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "Crotalus horridus texas" ; Times: 1
+	Query: "genus:heterodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:17369 institutioncode:BYU" ; Times: 2
+	Query: "genus:Phrynosoma county:&#34;Nye&#34; recordedby:Allred catalognumber:17441 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:43262 institutioncode:BYU" ; Times: 2
+	Query: "locality:Fullerton year &gt;= 1955 year &lt;= 1962" ; Times: 2
+	Query: "genus:Rana county:&#34;placer&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "catalognumber:23686 institutioncode:BYU" ; Times: 2
+	Query: "catalognumber:48533 institutioncode:BYU" ; Times: 1
+	Query: "catalognumber:23846 institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "genus:Taricha locality:Yosemite" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Nye&#34; institutioncode:BYU" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "Crotalus" ; Times: 7
+	Query: "genus:siren (nettingi)" ; Times: 5
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "catalognumber:17389 institutioncode:BYU" ; Times: 2
+	Query: "anilius scytale" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "specificepithet:nigra genus:Lampropeltis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 853 download events in this period)
+Total number of records downloaded: 3883
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 74
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Cuba ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Nepal ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 4
+	Date: 2020-03-31 ; Times: 3
+	Date: 2020-03-19 ; Times: 3
+	Date: 2020-03-16 ; Times: 3
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-13 ; Times: 12
+	Date: 2020-03-10 ; Times: 6
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-29 ; Times: 2
+	Date: 2020-03-27 ; Times: 3
+	Date: 2020-03-26 ; Times: 4
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-23 ; Times: 5
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-20 ; Times: 5
+	Date: 2020-03-05 ; Times: 4
+	Date: 2020-03-04 ; Times: 7
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-02 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "Hyla punctata" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "masticophis mentovarius" ; Times: 1
+	Query: "genus:Coluber" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "scincus scincus" ; Times: 1
+	Query: "specificepithet:subocularis genus:Bogertophis" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Colima&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria county:&#34;Monterey&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "genus:Sonora" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "pseudotriton" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:albagula genus:Plethodon" ; Times: 1
+	Query: "genus:Taricha locality:Yosemite" ; Times: 1
+	Query: "specificepithet:guttata genus:Pantherophis" ; Times: 1
+	Query: "plethodon montanus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "genus:Stilosoma" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "dicamptodon" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+	Query: "Atractaspis congica" ; Times: 1
+	Query: "specificepithet:woodi genus:sceloporus" ; Times: 1
+	Query: "specificepithet:holbrooki genus:Lampropeltis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colima&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "plethodon wehrlei" ; Times: 1
+	Query: "specificepithet:splendida genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "shinisaurus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Masticophis" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "genus:Cemophora" ; Times: 1
+	Query: "specificepithet:lucifuga genus:Eurycea" ; Times: 1
+	Query: "LAcerta media" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "&#34;gastrotheca peruana&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "specificepithet:californiae genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:harteri" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "genus:Rana specificepithet:cascadae" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:speciosus family:Bufonidae" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "genus:Agkistrodon" ; Times: 1
+	Query: "genus:Hypsiglena" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma" ; Times: 1
+	Query: "class:Amphibia country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "Crotalus" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+	Query: "specificepithet:nigra genus:Lampropeltis" ; Times: 1
+
+
+End of report.
