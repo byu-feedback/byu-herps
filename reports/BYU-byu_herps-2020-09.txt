@@ -1,0 +1,308 @@
+Report for Institution Code BYU, Resource byu_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 220
+Number of records retrieved in searches: 2127
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 158
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 2
+	Country: Finland ; Times: 3
+	Country: United Kingdom ; Times: 13
+	Country: Sweden ; Times: 4
+	Country: Vietnam ; Times: 2
+	Country: China ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 3
+	Date: 2020-09-08 ; Times: 7
+	Date: 2020-09-03 ; Times: 6
+	Date: 2020-09-02 ; Times: 7
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-07 ; Times: 6
+	Date: 2020-09-06 ; Times: 3
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 5
+	Date: 2020-09-21 ; Times: 14
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-23 ; Times: 6
+	Date: 2020-09-22 ; Times: 14
+	Date: 2020-09-25 ; Times: 10
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-27 ; Times: 16
+	Date: 2020-09-26 ; Times: 6
+	Date: 2020-09-29 ; Times: 30
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-16 ; Times: 5
+	Date: 2020-09-14 ; Times: 6
+	Date: 2020-09-15 ; Times: 6
+	Date: 2020-09-30 ; Times: 6
+	Date: 2020-09-17 ; Times: 7
+	Date: 2020-09-10 ; Times: 7
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 3
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-18 ; Times: 21
+	Date: 2020-09-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "Pseudemys Kentucky" ; Times: 1
+	Query: "specificepithet:pulchra genus:anniella year &gt;= 1991 year &lt;= 1999" ; Times: 1
+	Query: "Diadophis punctatus pulchellus" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:BYU" ; Times: 2
+	Query: "chihuahua" ; Times: 1
+	Query: "genus:Rana specificepithet:catesbeiana" ; Times: 1
+	Query: "specificepithet:VERNALIS genus:OPHEODRYS stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "M tigris" ; Times: 1
+	Query: "Gephyromantis" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Panama&#34;" ; Times: 3
+	Query: "genus:Phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "papuascincus 47856" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:BYU" ; Times: 2
+	Query: "genus:Crotaphytus county:&#34;riverside&#34;" ; Times: 3
+	Query: "Tahiti specificepithet:lugubris genus:lepidodactylus family:gekkonidae" ; Times: 1
+	Query: "32708" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "cerberus schneiderii" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;inyo&#34;" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 4
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "genus:crotaphytus county:&#34;mineral&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1956 year &lt;= 1960" ; Times: 1
+	Query: "hemidactylium scutatum maryland" ; Times: 1
+	Query: "locality:spring lake hotel" ; Times: 1
+	Query: "Pseudoleptodeira latifasciata" ; Times: 1
+	Query: "specificepithet:dulcis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:regilla county:&#34;tuolumne&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;imperial&#34;" ; Times: 2
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "creel" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Wyoming&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "iglesia" ; Times: 1
+	Query: "rhabdophis philippines" ; Times: 2
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "Crotalus willardi sonora" ; Times: 2
+	Query: "genus:Atelopus specificepithet:barbotini" ; Times: 1
+	Query: "genus:Abavorana specificepithet:luctuosa" ; Times: 2
+	Query: "Hypsiglena ochrorhyncha county:&#34;san diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "hydrophis hardwickii" ; Times: 1
+	Query: "Caraiba andreae" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "Aphaniotis fusca" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "specificepithet:imbricatus genus:Sphaerodactylus AND (NOT argus)" ; Times: 1
+	Query: "Micruroides arizona" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;tuolumne&#34; year &gt;= 1800 year &lt;= 1975" ; Times: 1
+	Query: "county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "Masticophis slevini" ; Times: 1
+	Query: "malaclemys texas" ; Times: 1
+	Query: "Gambelia baja california sur" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Nacogdoches&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "hydrophis schistosus" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 13
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Utah&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "micrurus laticollaris" ; Times: 1
+	Query: "specificepithet:microphyllus genus:Phyllodactylus institutioncode:BYU" ; Times: 2
+	Query: "Beaver" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "Chihuahua" ; Times: 2
+	Query: "genus:Amphiuma stateprovince:&#34;LOuisiana&#34;" ; Times: 1
+	Query: "genus:crotaphytus stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "acris" ; Times: 3
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:bugastrolepis genus:Phyllodactylus institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:BYU" ; Times: 2
+	Query: "erythrogaster" ; Times: 2
+	Query: "genus:Phyllorhynchus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "genus:gambelia county:&#34;Imperial&#34;" ; Times: 2
+	Query: "Rhadinaea hesperia" ; Times: 1
+	Query: "genus:Boana specificepithet:riojana" ; Times: 1
+	Query: "specificepithet:turcicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:BYU" ; Times: 2
+	Query: "radix missouri" ; Times: 1
+	Query: "genus:gambelia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:BYU" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 6
+	Query: "liolaemus" ; Times: 2
+	Query: "Caecilia tentaculata" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 3
+	Query: "stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Homonota institutioncode:BYU" ; Times: 2
+	Query: "genus:Coleonyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Williamson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "LSUHC" ; Times: 1
+	Query: "gephyromantis" ; Times: 5
+	Query: "genus:Heloderma stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "pseudacris" ; Times: 1
+	Query: "specificepithet:gerrhopygus genus:Phyllodactylus institutioncode:BYU" ; Times: 2
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "acris crepitans" ; Times: 1
+	Query: "county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;marshall&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "genus:gambelia locality:furnace" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 4
+	Query: "Boiga" ; Times: 1
+	Query: "lacerta schreiberi" ; Times: 1
+	Query: "Bocoyna chihuahua" ; Times: 1
+	Query: "scat" ; Times: 1
+	Query: "CROTALUS TRISERIATUS" ; Times: 4
+	Query: "genus:Sphaerodactylus country:&#34;Panama&#34; AND (NOT argus)" ; Times: 1
+	Query: "Crotalus aquilus" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Morrill&#34; stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:cerberus order:Squamata" ; Times: 1
+	Query: "test" ; Times: 3
+	Query: "tergeminus" ; Times: 4
+	Query: "bocoyna chihuahua" ; Times: 4
+	Query: "31631" ; Times: 1
+	Query: "Lampropeltis gentilis" ; Times: 1
+	Query: "specificepithet:aeneus genus:Sceloporus stateprovince:&#34;Jalisco&#34;" ; Times: 3
+	Query: "Elgaria paucicarinata" ; Times: 1
+	Query: "vntype:specimen genus:Gephyromantis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "BYU 20912" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Pánama&#34;" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;riverside&#34;" ; Times: 1
+	Query: "genus:Hemidactylus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:BYU" ; Times: 2
+	Query: "38572" ; Times: 1
+	Query: "specificepithet:unctus genus:Phyllodactylus institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:BYU" ; Times: 2
+	Query: "specificepithet:underwoodi genus:Homonota institutioncode:BYU" ; Times: 2
+	Query: "plethodontidae" ; Times: 1
+	Query: "genus:boa stateprovince:&#34;Veracruz&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 976 download events in this period)
+Total number of records downloaded: 5485
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Ghana ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Fiji ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 40
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 6
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-07 ; Times: 2
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 5
+	Date: 2020-09-22 ; Times: 5
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 7
+	Date: 2020-09-27 ; Times: 3
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-14 ; Times: 7
+	Date: 2020-09-15 ; Times: 5
+	Date: 2020-09-30 ; Times: 4
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "&#34;Bufo boreas&#34; vntype:specimen stateprovince:&#34;Colorado&#34; year &gt;= 1900 year &lt;= 2000" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "ambystoma velasci" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Smilisca fodiens México" ; Times: 4
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "Boa imperator México" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Geophis vntype:specimen" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "indotyphlops braminus" ; Times: 1
+	Query: "Hypopachus variolosus México" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Wyoming&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aeneus genus:Sceloporus stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "Rhadinaea hesperia" ; Times: 1
+	Query: "genus:Coleonyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "gephyromantis" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Ambystoma tigrinum mexico" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Amphibia" ; Times: 2
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pseudoleptodeira latifasciata" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "tretanorhinus nigroluteus" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 2
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Utah&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "micrurus laticollaris" ; Times: 1
+	Query: "Gephyromantis" ; Times: 1
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+
+
+End of report.
